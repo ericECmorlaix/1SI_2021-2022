@@ -18,7 +18,17 @@ docs_dir: docs
 nav: 
     - Cahier de texte : index.md
     - Présentation : presentation.md
-    - Découverte notebook : decouverte-notebook.ipynb
+    - Les notebook jupyter :
+      - Découverte : decouverte-notebook.ipynb
+      - Markdown : MarkDown-Le_BN_pour_rapporter.ipynb
+      - HTML : HTML-Le_BN_pour_multimedier.ipynb
+      - LaTeX : LaTeX-Le_BN_pour_formuler.ipynb
+      - Calcul : Arithmetique-Le_BN_pour_calculer.ipynb
+    - Analyse Fonctionnelle :
+      - Externe : OutilsAnalyseFonctionnelleExterne.ipynb
+      - Interne : OutilsAnalyseFonctionnelleInterne.ipynb
+    
+    
 
 # Définition du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/
 theme:
@@ -26,8 +36,8 @@ theme:
     custom_dir: overrides
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
-    logo: images/logoIO.png
-    favicon: images/logoIO-blue.png
+    logo: images/LogoIO.png
+    favicon: images/LogoIO-blue.png
     palette:                        # Palettes de couleurs jour/nuit
       - scheme: default
         primary: blue
