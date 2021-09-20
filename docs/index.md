@@ -1,5 +1,13 @@
 # Cahier de texte 1SI_2021-2022
 
+## Les 20 et 22/09 :
+
+- Focus sur la [chaine d'information, notion de numération](./ChaineInformation-Numeration) ;
+
+- Correction du travail demandé ;
+
+- Projets : Serre connectée pour Planète verte, ...
+
 ## Les 15 et 16/09 :
 
 - Correction du travail demandé ​​​ : diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/) inséré dans un carnet du cours [Analyse Fontionn​elle Externe​​](./OutilsAnalyseFonctionnelleExterne) ; 

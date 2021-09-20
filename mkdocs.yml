@@ -27,6 +27,8 @@ nav:
     - Analyse Fonctionnelle :
       - Externe : OutilsAnalyseFonctionnelleExterne.ipynb
       - Interne : OutilsAnalyseFonctionnelleInterne.ipynb
+    - Chaine d'information :
+      - Numération : ChaineInformation-Numeration.ipynb
     
     
 
