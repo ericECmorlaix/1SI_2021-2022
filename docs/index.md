@@ -2,11 +2,13 @@
 
 ## Les 20 et 22/09 :
 
-- Focus sur la [chaine d'information, notion de numération](./ChaineInformation-Numeration) ;
+- Focus sur la [chaine d'information, notion de numération](./ChaineInformation-Numeration) -> **Faire** les exercices de conversion binaire <-> décimal ;
 
 - Correction du travail demandé ;
 
 - Projets : Serre connectée pour Planète verte, ...
+
+- -> **_Se préparer pour une évaluation en numération et codage de l'information pour le lundi 27/09_**
 
 ## Les 15 et 16/09 :
 
