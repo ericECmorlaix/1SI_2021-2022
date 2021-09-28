@@ -1,6 +1,16 @@
 # Cahier de texte 1SI_2021-2022
 
-## Les 20 et 22/09 :
+## Le 29/09 :
+
+- [Correction de l'évaluation numération et codage de l'information](./Correction_Evaluation_Numération) ;
+
+- Début d'étude de la [Logique de la chaine d'information](./FonctionsLogiquesV0)
+
+## Le 27/09 :
+
+-  Evaluation en numération et codage de l'information ;
+
+## Les 20, 22 et 23/09 :
 
 - Focus sur la [chaine d'information, notion de numération](./ChaineInformation-Numeration) -> **Faire** les exercices de conversion binaire <-> décimal ;
 
