@@ -12,6 +12,14 @@
 
 ![board](images/undraw_Scrum_board_re_wk7v.svg){: .center width=50%}
 
+## Le 06/10 :
+
+- Poursuite d'étude de la [Logique de la chaine d'information](./FonctionsLogiquesV0) ;
+
+## Le 05/10 :
+
+- Correction de l'[exercice d'application du doodle Google hommage à Boole](./Fonctions_Logiques-Exercice_Application) ;
+
 ## Le 30/09 :
 - Début d'étude de la [Logique de la chaine d'information](./FonctionsLogiquesV0) ;
 > *cf documents pdf associés* : [Description de la Logique d'un Va Et Vient](./pdf/ChaineInformation-LogiqueVaEtVient.pdf){:target="_blank"}  et [Tableau des Fonctions Logiques](./pdf/ChaineInformation-Logique_TableauFonction.pdf){:target="_blank"}.
