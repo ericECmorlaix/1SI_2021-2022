@@ -12,9 +12,9 @@
 
 ![board](images/undraw_Scrum_board_re_wk7v.svg){: .center width=50%}
 
-## Le 06/10 :
+## Les 06 et 07/10 :
 
-- Poursuite d'étude de la [Logique de la chaine d'information](./FonctionsLogiquesV0) ;
+- Poursuite d'étude de la [Logique de la chaine d'information](./FonctionsLogiquesV1) ;
 
 ## Le 05/10 :
 
