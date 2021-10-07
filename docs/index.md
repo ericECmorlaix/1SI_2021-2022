@@ -16,6 +16,8 @@
 
 - Poursuite d'étude de la [Logique de la chaine d'information](./FonctionsLogiquesV1) ;
 
+**-> Pour le 11/10, faire l'[exercice d'application au lève vitre électrique](./Fonctions_Logiques-Exercice_Leve_Vitre_Electrique) et le transmettre au format notebook en PJ d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr)...**
+
 ## Le 05/10 :
 
 - Correction de l'[exercice d'application du doodle Google hommage à Boole](./Fonctions_Logiques-Exercice_Application) ;
