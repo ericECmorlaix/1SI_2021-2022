@@ -12,11 +12,25 @@
 
 ![board](images/undraw_Scrum_board_re_wk7v.svg){: .center width=50%}
 
+
+[mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+
+## Les 11, 13 et 14/10 :
+
+- Poursuite de l'[exercice d'application au lève vitre électrique](./Fonctions_Logiques-Exercice_Leve_Vitre_Electrique) avec simulation sur [https://logic.ly/demo](https://logic.ly/demo){target=_blank} et [https://fr.vittascience.com](https://fr.vittascience.com/microbit/?lang=fr&mode=mixed){target=_blank} puis expérimentation sur BBC micro:bit ** -> transmettre le notebook complété en PJ d'un [mail][] **
+
+- Se préparer pour une ==évaluation sur les fonctions logiques pour le 18/10== en faisant les exercices d'entrainement supplémentaires :
+    - [Ex1- Lecture d'un logigramme européen](./pdf/Ex1-Lecture_d_un_logigramme_europeen.pdf){target=_blank} ;
+    - [Ex2- Lecture d'une table de vérité](./pdf/Ex2-Lecture_table_de_verite.pdf){target=_blank} ;
+    - [Ex3- Construire un logigramme hétérogène américain.pdf](./pdf/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
+    - [Ex4- Construire une table de vérité](./pdf/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ;
+
+
 ## Les 06 et 07/10 :
 
 - Poursuite d'étude de la [Logique de la chaine d'information](./FonctionsLogiquesV1) ;
 
-**-> Pour le 11/10, faire l'[exercice d'application au lève vitre électrique](./Fonctions_Logiques-Exercice_Leve_Vitre_Electrique) et le transmettre au format notebook en PJ d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr)...**
+**-> Pour le 11/10, commencer l'[exercice d'application au lève vitre électrique](./Fonctions_Logiques-Exercice_Leve_Vitre_Electrique) et le transmettre au format notebook en PJ d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr)...**
 
 ## Le 05/10 :
 
