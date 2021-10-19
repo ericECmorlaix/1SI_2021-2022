@@ -15,6 +15,30 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+
+## Le 20/10 :
+
+- Correction de l'évaluation sur les fonctions logiques​​ ;
+- Complément, réalisation de fonctions logiques avec des transistors​​,
+ reconnaitre les fonctions simulées :
+    - <https://tinyurl.com/y6ca4dwn> ;
+    - <https://tinyurl.com/y62j9dx> ;
+    - <https://tinyurl.com/y4pmexnc​> ;
+    - <https://tinyurl.com/yya89b6n​> ;
+    - ​<https://tinyurl.com/y56od8rh>​...  
+    Ces circuits utilisent des transistors bipolaires inventés en 1948.
+    [Aujourd'hui le transistor MOS constitue,
+     par sa simplicité de fabrication et ses performances,
+      l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)​...​
+
+- Discussion autour des pistes de projets envisagés ;
+
+- Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/) : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
+
+## Le 18/10 :
+
+- Evaluation sur les fonctions logiques ;
+
 ## Les 11, 13 et 14/10 :
 
 - Poursuite de l'[exercice d'application au lève vitre électrique](./Fonctions_Logiques-Exercice_Leve_Vitre_Electrique) avec simulation sur [https://logic.ly/demo](https://logic.ly/demo){target=_blank} et [https://fr.vittascience.com](https://fr.vittascience.com/microbit/?lang=fr&mode=mixed){target=_blank} puis expérimentation sur BBC micro:bit ** -> transmettre le notebook complété en PJ d'un [mail][] **
