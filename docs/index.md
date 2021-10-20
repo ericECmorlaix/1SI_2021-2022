@@ -21,11 +21,11 @@
 - Correction de l'évaluation sur les fonctions logiques ;
 - Complément, réalisation de fonctions logiques avec des transistors,
  reconnaitre les fonctions simulées :
-    - <https://tinyurl.com/y6ca4dwn> ;
-    - <https://tinyurl.com/y62j9dx> ;
-    - <https://tinyurl.com/y4pmexnc> ;
-    - <https://tinyurl.com/yya89b6n> ;
-    - <https://tinyurl.com/y56od8rh>...  
+    - <https://tinyurl.com/y6ca4dwn>{target="_blank"} ;
+    - <https://tinyurl.com/y62j9dxj>{target="_blank"} ;
+    - <https://tinyurl.com/y4pmexnc>{target="_blank"} ;
+    - <https://tinyurl.com/yya89b6n>{target="_blank"} ;
+    - <https://tinyurl.com/y56od8rh>{target="_blank"}...  
     Ces circuits utilisent des transistors bipolaires inventés en 1948.
     [Aujourd'hui le transistor MOS constitue,
      par sa simplicité de fabrication et ses performances,
@@ -44,13 +44,13 @@
  - **regardez** la [vidéo de prise en main de l'interface](https://web.microsoftstream.com/video/3d15c5a0-a510-4553-a45c-892de0227100){target="_blank"} ;
  - ==**-> me transmettre par [mail] votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre...**== ;
 
-### Prolongements, à faire pour le 19/10 :
+### Prolongements, à faire pour le 08/11 :
 
 - Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
 
 - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1) ;
 
-- Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/) : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
+- Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/){target="_blank"} : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
 
 ***
 ## Le 18/10 :
