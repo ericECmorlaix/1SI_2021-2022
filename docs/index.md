@@ -19,6 +19,7 @@
 ## Les 20 et 21/10 :
 
 - Correction de l'évaluation sur les fonctions logiques ;
+- Réalisation d'un corrigé collectif pour l'[exercice du lève vitre électrique](./Fonctions_Logiques-Exercice_Leve_Vitre_Electrique) ;
 - Complément, réalisation de fonctions logiques avec des transistors,
  reconnaitre les fonctions simulées :
     - <https://tinyurl.com/y6ca4dwn>{target="_blank"} ;
@@ -49,6 +50,8 @@
 - Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
 
 - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1) ;
+
+- [Créer vos propres projets avec le bac à sable QuickPi](http://static-items.algorea.org/files/checkouts/b9d62b976051ae607874425ee5584f5f/testbed/index.html?language=python){target="_blank"} ;
 
 - Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/){target="_blank"} : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
 
