@@ -16,25 +16,43 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 
-## Le 20/10 :
+## Les 20 et 21/10 :
 
-- Correction de l'évaluation sur les fonctions logiques​​ ;
-- Complément, réalisation de fonctions logiques avec des transistors​​,
+- Correction de l'évaluation sur les fonctions logiques ;
+- Complément, réalisation de fonctions logiques avec des transistors,
  reconnaitre les fonctions simulées :
     - <https://tinyurl.com/y6ca4dwn> ;
     - <https://tinyurl.com/y62j9dx> ;
-    - <https://tinyurl.com/y4pmexnc​> ;
-    - <https://tinyurl.com/yya89b6n​> ;
-    - ​<https://tinyurl.com/y56od8rh>​...  
+    - <https://tinyurl.com/y4pmexnc> ;
+    - <https://tinyurl.com/yya89b6n> ;
+    - <https://tinyurl.com/y56od8rh>...  
     Ces circuits utilisent des transistors bipolaires inventés en 1948.
     [Aujourd'hui le transistor MOS constitue,
      par sa simplicité de fabrication et ses performances,
-      l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)​...​
+      l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
 
-- Discussion autour des pistes de projets envisagés ;
+- Discussion autour des pistes de projets envisagés :
+    - Créer un véhicule électrique et un stand pour [Course en Cours](https://www.course-en-cours.com/fr/){target="_blank"} ;    - 
+    - Développer des équipements pour connecter la nouvelle serre du projet "planète verte" au collège Saint Augustin ;
+    - Imaginer des solutions pour mesurer l'activité sportive dans le cadre du projet "bougeons ensemble" ;
+    - Concevoir un robot constructeur de figures de dominos ;
+    - Dispositifs d'assistance pour babyfoot ;
+    - Dispositifs d'assistance pour table à dessin en architecture par exemple ;
+    - Autres projets d'innovation...
+<!--
+- Découvrir la programmation en Python des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} en utilisant le code fourni pour le **Parcours_1** ;
+ - **regardez** la [vidéo de prise en main de l'interface](https://web.microsoftstream.com/video/3d15c5a0-a510-4553-a45c-892de0227100){target="_blank"} ;
+ - ==**-> me transmettre par [mail] votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre...**== ;
+
+### Prolongements, à faire pour le 19/10 :
+
+- Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
+
+- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1) ;
 
 - Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/) : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
-
+-->
+***
 ## Le 18/10 :
 
 - Evaluation sur les fonctions logiques ;
@@ -49,30 +67,30 @@
     - [Ex3- Construire un logigramme hétérogène américain.pdf](./pdf/Ex3-Construire_un_logigramme_heterogene_americain.pdf){target=_blank} ;
     - [Ex4- Construire une table de vérité](./pdf/Ex4-Construire_une_table_de_verite.pdf){target=_blank} ;
 
-
+***
 ## Les 06 et 07/10 :
 
 - Poursuite d'étude de la [Logique de la chaine d'information](./FonctionsLogiquesV1) ;
 
 **-> Pour le 11/10, commencer l'[exercice d'application au lève vitre électrique](./Fonctions_Logiques-Exercice_Leve_Vitre_Electrique) et le transmettre au format notebook en PJ d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr)...**
-
+***
 ## Le 05/10 :
 
 - Correction de l'[exercice d'application du doodle Google hommage à Boole](./Fonctions_Logiques-Exercice_Application) ;
-
+***
 ## Le 30/09 :
 - Début d'étude de la [Logique de la chaine d'information](./FonctionsLogiquesV0) ;
 > *cf documents pdf associés* : [Description de la Logique d'un Va Et Vient](./pdf/ChaineInformation-LogiqueVaEtVient.pdf){:target="_blank"}  et [Tableau des Fonctions Logiques](./pdf/ChaineInformation-Logique_TableauFonction.pdf){:target="_blank"}.
 
 **-> Pour le 04/10, faire l'[exercice d'application du doodle Google hommage à ?](./Fonctions_Logiques-Exercice_Application) et le transmettre au format notebook en PJ d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr)...**
-
+***
 ## Le 29/09 :
 - [Correction de l'évaluation numération et codage de l'information](./Correction_Evaluation_Numération) ;
 
-
+***
 ## Le 27/09 :
 -  Evaluation en numération et codage de l'information ;
-
+***
 ## Les 20, 22 et 23/09 :
 
 - Focus sur la [chaine d'information, notion de numération](./ChaineInformation-Numeration) -> **Faire** les exercices de conversion... ;
@@ -82,7 +100,7 @@
 - Projets : Serre connectée pour Planète verte, ...
 
 - -> **_Se préparer pour une évaluation en numération et codage de l'information pour le lundi 27/09_**
-
+***
 ## Les 15 et 16/09 :
 
 - Correction du travail demandé ​​​ : diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/) inséré dans un carnet du cours [Analyse Fontionn​elle Externe​​](./OutilsAnalyseFonctionnelleExterne) ; 
@@ -90,20 +108,22 @@
 - Cours [Analyse Fo​nctionn​elle Intern​e](./OutilsAnalyseFonctionnelleInterne)​​​ : approfondissement du SysML et de l'outil de dessin vectoriel​​ drawio -> Remettre par mail le travail demandé en ​[Analyse Fo​nctionn​elle Intern​e](./OutilsAnalyseFonctionnelleInterne)​​​ ;
 
 - Projets...
-
+***
 ## Le 13/09 :
 
 - Synthèse du travail demandé, remédiation concernant la gestion et l'insertion des fichiers images...
 
-
+***
 ## Le 09/09 :
 - Cours [Analyse Fontionn​elle Externe​​](./OutilsAnalyseFonctionnelleExterne)​​ : découverte du SysML et de l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.diagrams.net/){:target="_blank"} ;​​​​
 
     -> Pour le lundi 13/09 : **reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](./OutilsAnalyseFonctionnelleExterne)​ et le **transmettre** par mail.
 
+***
 ## Le 08/09 :
-- Installation de l'application Carnets -> **prendre** en main des notebook jupyter ; 
+- Installation de l'application Carnets -> **prendre** en main des notebook jupyter ;
 
+***
 ## Le 06/09 :
 - Accueil -> **remplir** une fiche d'informations ;
 - Page de présentation de la matière -> **préciser** le rôle des ingénieurs dans la société ;
