@@ -39,7 +39,7 @@
     - Dispositifs d'assistance pour babyfoot ;
     - Dispositifs d'assistance pour table à dessin en architecture par exemple ;
     - Autres projets d'innovation...
-<!--
+
 - Découvrir la programmation en Python des objets connectés avec la carte [**QuickPi**](https://quick-pi.org/){target="_blank"} à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} en utilisant le code fourni pour le **Parcours_1** ;
  - **regardez** la [vidéo de prise en main de l'interface](https://web.microsoftstream.com/video/3d15c5a0-a510-4553-a45c-892de0227100){target="_blank"} ;
  - ==**-> me transmettre par [mail] votre code personnel pour ce Parcours pour y retourner d'une fois sur l'autre...**== ;
@@ -51,7 +51,7 @@
 - Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1) ;
 
 - Evoluer de la programmation Scratch vers Python grace à l'application [PYRATES](https://py-rates.fr/) : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
--->
+
 ***
 ## Le 18/10 :
 
