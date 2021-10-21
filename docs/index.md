@@ -33,11 +33,16 @@
       l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
 
 - Discussion autour des pistes de projets envisagés :
-    - Créer un véhicule électrique et un stand pour [Course en Cours](https://www.course-en-cours.com/fr/){target="_blank"} ;    - 
+    - Créer un véhicule électrique et un stand pour [Course en Cours](https://www.course-en-cours.com/fr/){target="_blank"} ;
+      Paul Antoine, Yousif, Neil, Matéo, Laure, Noémie 
     - Développer des équipements pour connecter la nouvelle serre du projet "planète verte" au collège Saint Augustin ;
+      Josselin, Mathéo
     - Imaginer des solutions pour mesurer l'activité sportive dans le cadre du projet "bougeons ensemble" ;
+      Pol, Melvyn, Duncan
     - Concevoir un robot constructeur de figures de dominos ;
+      Antoine, Thomas
     - Dispositifs d'assistance pour babyfoot ;
+      Samuel, Johan, Clément, Thibault
     - Dispositifs d'assistance pour table à dessin en architecture par exemple ;
     - Autres projets d'innovation...
 
