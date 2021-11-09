@@ -15,6 +15,17 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+### Le 10/11 en autonomie et pour le 15/11 :
+
+- **Terminer** tous les niveauw de l'application [PYRATES](https://py-rates.fr/){target="_blank"} : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
+
+- Finir la programmation des objets connectés sur la [plateforme de France-IOI](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
+
+- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1) ; ==**-> me transmettre par [mail] votre code personnel ainsi que le notebook finalisé...**== ;
+
+- [Créer vos propres projets avec le bac à sable QuickPi](http://static-items.algorea.org/files/checkouts/b9d62b976051ae607874425ee5584f5f/testbed/index.html?language=python){target="_blank"}...
+
+***
 
 ## Les 20 et 21/10 :
 
