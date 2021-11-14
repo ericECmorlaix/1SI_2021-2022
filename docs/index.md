@@ -15,6 +15,11 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+### Le 15/11 :
+
+- Lire le [cours](./pdf/Les différentes formes d'énergie - Cours.pdf){target=_blank} sur les différentes formes d'énergie et faire les [exercices](./pdf/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
+
+
 ### Le 10/11 en autonomie et pour le 15/11 :
 
 - **Terminer** tous les niveauw de l'application [PYRATES](https://py-rates.fr/){target="_blank"} : ==**-> me transmettre par [mail] votre code personnel ainsi que le temps et le nombre d'essais qu'il vous faut pour passer chaque niveau...**== ;
