@@ -19,6 +19,10 @@
 
 - Lire le [cours](./pdf/Les différentes formes d'énergie - Cours.pdf){target=_blank} sur les différentes formes d'énergie et faire les [exercices](./pdf/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
 
+#### Prolongement :
+
+- Qui est Jean-Marc JANCOVICI ? Quelle est son actualité ? Quelles sont ses thèses ? Fait-il l'unanimité ? ...
+
 
 ### Le 10/11 en autonomie et pour le 15/11 :
 
