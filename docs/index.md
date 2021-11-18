@@ -15,7 +15,16 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-### Le 15/11 :
+## Le 18/11 :
+
+- Correction de l'[exercice 7](./pdf/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
+
+- Application pratique au rameur du labo de SI ;
+
+- Lire le [cours](./pdf/Les_principales_puissances-Cours.pdf){target=_blank} sur les différentes formes d'énergie et faire l'[exercice 1](./pdf/Les_principales_puissances-Exercice_1.pdf){target=_blank} en observant le système et sa [maquette numérique](./systemes/mini-compresseur.zip) ;
+
+
+### Les 15 et 17/11 :
 
 - Lire le [cours](./pdf/Les différentes formes d'énergie - Cours.pdf){target=_blank} sur les différentes formes d'énergie et faire les [exercices](./pdf/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
 
