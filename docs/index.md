@@ -15,6 +15,13 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Le 22/11 :
+
+- Correction de l'[exercice 1](./pdf/Les_principales_puissances-Exercice_1.pdf){target=_blank} concernant un mini-compresseur ;
+
+- Relire le [cours](./pdf/Les_principales_puissances-Cours.pdf){target=_blank} sur les différentes formes d'énergie et lire le document ressource sur [l'énergie chimique](./pdf/Les_principales_puissances-Exercice_2-Document_ressources.pdf){target=_blank} pour faire l'[exercice 2](./pdf/Les_principales_puissances-Exercice_2.pdf){target=_blank} ;
+
+
 ## Le 18/11 :
 
 - Correction de l'[exercice 7](./pdf/Les différentes formes d'énergie - exercices - Sujet.pdf){target=_blank} ;
