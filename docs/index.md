@@ -23,7 +23,7 @@
 
 - Evaluations [Energie-Puissance-Rendement](./pdf/EvaluationEnergiePuissanceRendement.pdf){target=_blank} et [Programmation-Python-Objets-Connectés](./pdf/EvaluationPythonIOT.pdf){target=_blank} ;
 
-- [Exercices supplémentaires sur les principales puissances](Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} ==à faire pour le 29/11== ; 
+- [Exercices supplémentaires sur les principales puissances](./pdf/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} ==à faire pour le 29/11== ; 
 
 ***
 ## Les 22 et 24/11 :
