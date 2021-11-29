@@ -15,7 +15,18 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-## Le 22/11 :
+## Le 29/11 :
+
+- Corrections...
+
+## Le 25/11 :
+
+- Evaluations [Energie-Puissance-Rendement](./pdf/EvaluationEnergiePuissanceRendement.pdf){target=_blank} et [Programmation-Python-Objets-Connectés](./pdf/EvaluationPythonIOT.pdf){target=_blank} ;
+
+- [Exercices supplémentaires sur les principales puissances](Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} ==à faire pour le 29/11== ; 
+
+***
+## Les 22 et 24/11 :
 
 - Correction de l'[exercice 1](./pdf/Les_principales_puissances-Exercice_1.pdf){target=_blank} concernant un mini-compresseur ;
 
