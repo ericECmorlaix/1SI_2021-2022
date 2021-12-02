@@ -15,9 +15,13 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-## Le 29/11 :
+## Du 29/11 au 01/12 :
 
 - Corrections...
+
+- Compléter le cours sur l'énergétique et faire les exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique) ;
+
+- Découvrir plus avant la [modélisation 3D](https://scenari.techno-melh.xyz/modelisation-3d/co/modelisation-3D-MELH.html){target=_blank} et installer l'application OnShape depuis le self-service ;
 
 ## Le 25/11 :
 
