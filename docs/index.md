@@ -15,11 +15,20 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Du 06 au 09/12 :
+
+- Finir les [exercice 2](./pdf/Les_principales_puissances-Exercice_2.pdf){target=_blank} et [exercices 4 et 5](./pdf/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} sur les principales puissances ==: => les remettre par [mail] pour le jeudi 09/12 au plus tard== ;
+
+- [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ;
+
+- Poursuivre l'apprentissage du cours sur l'énergétique et faire les exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} ;
+
+***
 ## Du 29/11 au 01/12 :
 
 - Corrections...
 
-- Compléter le cours sur l'énergétique et faire les exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique) ;
+- Compléter le cours sur l'énergétique et faire les exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} ;
 
 - Découvrir plus avant la [modélisation 3D](https://scenari.techno-melh.xyz/modelisation-3d/co/modelisation-3D-MELH.html){target=_blank} et installer l'application OnShape depuis le self-service ;
 

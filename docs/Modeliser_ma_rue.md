@@ -49,7 +49,7 @@ Différentes solutions logicielles permettent de réaliser des constructions vir
 ??? example "Si vous ne connaissez pas l'application **OnShape** il va vous falloir préalablement la prendre en main : ..."
 
     <figure markdown>
-    ![Onshape](./images/Onshape.png){ width="60%" .center }
+    ![Onshape](https://ericecmorlaix.github.io/1SI_2021-2022/images/Onshape.png){ width="60%" .center }
     </figure>
 
     <p>
@@ -58,8 +58,8 @@ Différentes solutions logicielles permettent de réaliser des constructions vir
     Educator et student ont les mêmes possibilités qu’un compte PRO. Pour un compte Education, le logo EDU apparaîtra sur tous les documents.</p>
     <figure markdown>
     <figcaption>Renseigner alors tous les champs du formulaire en deux étapes.</figcaption>
-    ![Onshape](./images/OnshapeFormulaire01.png){ width="60%" .center }
-    ![Onshape](./images/OnshapeFormulaire02.png){ width="60%" .center }
+    ![Onshape](https://ericecmorlaix.github.io/1SI_2021-2022/images/OnshapeFormulaire01.png){ width="60%" .center }
+    ![Onshape](https://ericecmorlaix.github.io/1SI_2021-2022/images/OnshapeFormulaire02.png){ width="60%" .center }
     <figcaption>Dans une troisième étape, il faut valider l'inscription depuis le mail reçu et définir un mot de passe...</figcaption>
     </figure>
     <p>
@@ -112,7 +112,8 @@ Outre les immeubles, dans ma rue, il y a éventuellement d'autres fonctionnalit�
 - un pont, car ma rue est peut être traversée par une rivière ;
 - une intersection, car ma rue croise d'autres rues pour former un quartier, une agglomération, une ville...
 
-> Seule la construction des façades est requise dans la mesure ou le visuel depuis la rue est suffisamment représentatif de l'architecture générale.
+!!! note ""
+    Seule la construction des façades est requise dans la mesure ou le visuel depuis la rue est suffisamment représentatif de l'architecture générale.
 
 ## Production attendue
 
@@ -120,9 +121,10 @@ Livrer une maquette numérique 3D qui répond au problème posé en utilisant pr
 
 Définir, partager et exploiter, le plus d'éléments modulaires possibles : fonctions, pièces, sous-assemblages...
 
-Vérifier systématiquement, en amont ou en aval, la faisabilité avec des pièces de LEGO réelles de tout modèle virtuel.
+Vérifier systématiquement, en amont ou en aval, la faisabilité de tout modèle virtuel avec des pièces de LEGO réelles.
 
-> D'autres exigences et contraintes pourront être précisées en cours de projet. Il faudra s'y adapter avec agilité...
+!!! note ""
+    D'autres exigences et contraintes pourront être précisées en cours de projet. Il faudra s'y adapter avec agilité...
 
 
 ## Une organisation agile :
@@ -160,28 +162,28 @@ Le premier sprint, en fait le sprint zéro, sera collectif et piloter par le [Pr
 Les sprints suivants seront menés au sein de chaque équipe où les Scrums Master veilleront à animer les cérémonies de sprint, 
 la répartition des tâches pour chaque User Story, qui seront ici les éléments modulaires à produire en commençant par ceux de base qui ne dépendent pas des autres.
 
-Ainsi le Sprint 1 devrait contenir quatre User Stories pour produire respectivement les modules toit, fenêtre, porte, façade.    
+Ainsi le Sprint 1 devrait contenir quatre User Stories pour produire respectivement les modules toit, fenêtre, porte, façade...  
 
-A vous de jouer !
-C'est parti pour le Sprint..., rendez-vous au prochain Scrum...
+_A vous de jouer !_
+_C'est parti pour le **Sprint...**, rendez-vous au prochain **Scrum...**_
 
 > Etres agile c'est avant tout une posture, qui au delà des aspects techniques de la réalisation, nous conduit à surveiller également la méthode de développement et l'organisation dans l'équipe avec le souci constant de la réussite collective du projet et de la satisfaction des clients, les Key Users.
 
 
-## Prise en main du workflow, Sprint 0
+## Sprint 0, prise en main du workflow
 
 En observant les briques de LEGO Classic et les images ci-dessous :
 
 === "Briques"
-    ![bricks_by_jeremymallin.jpg](./images/bricks_by_jeremymallin.jpg){ width="100%" .center }
+    ![bricks_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2021-2022/images/bricks_by_jeremymallin.jpg){ width="100%" .center }
 === "Plaques"
-    ![plates_by_jeremymallin.jpg](./images/plates_by_jeremymallin.jpg){ width="100%" .center }
+    ![plates_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2021-2022/images/plates_by_jeremymallin.jpg){ width="100%" .center }
 === "Pentes_1"
-    ![sloped_bricks_by_jeremymallin.jpg](./images/sloped_bricks_by_jeremymallin.jpg){ width="100%" .center }
+    ![sloped_bricks_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2021-2022/images/sloped_bricks_by_jeremymallin.jpg){ width="100%" .center }
 === "Pentes_2"
-    ![sloped_bricks_2_by_jeremymallin.jpg](./images/sloped_bricks_2_by_jeremymallin.jpg){ width="100%" .center }
+    ![sloped_bricks_2_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2021-2022/images/sloped_bricks_2_by_jeremymallin.jpg){ width="100%" .center }
 === "Pentes_3"
-    ![sloped_bricks_3_by_jeremymallin.jpg](./images/sloped_bricks_3_by_jeremymallin.jpg){ width="100%" .center }
+    ![sloped_bricks_3_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2021-2022/images/sloped_bricks_3_by_jeremymallin.jpg){ width="100%" .center }
 
 Et avec l'aide des vidéos de Ms. DANZI suivantes :
 === "Tutorial 1 (1/3)"
@@ -208,7 +210,7 @@ Et avec l'aide des vidéos de Ms. DANZI suivantes :
 - Réaliser l'assemblage d'une de vos réalisations avec celle d'un de vos pairs ;
 
 
-## Application du workflow, Sprint 1
+##  Sprint 1, mise en application du workflow
 
 A vous de vous organiser en équipe pour produire la maquette d'un premier immeuble conforme aux attendus du Product Owner...
 
