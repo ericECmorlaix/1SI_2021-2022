@@ -15,7 +15,15 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-## Du 06 au 09/12 :
+## Pour la rentrée de janvier :
+
+- [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ==: => **préparer** un oral de présentation par équipe du produit du sprint 1 ;==
+
+- Poursuivre l'apprentissage du cours sur l'énergétique et faire les exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} ==: => **préparer** une évaluation écrite pour le 06/01/2022 ;==
+
+
+***
+## Du 06 au 17/12 :
 
 - Finir les [exercice 2](./pdf/Les_principales_puissances-Exercice_2.pdf){target=_blank} et [exercices 4 et 5](./pdf/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} sur les principales puissances ==: => les remettre par [mail] pour le jeudi 09/12 au plus tard== ;
 

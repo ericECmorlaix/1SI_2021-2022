@@ -184,6 +184,8 @@ En observant les briques de LEGO Classic et les images ci-dessous :
     ![sloped_bricks_2_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2021-2022/images/sloped_bricks_2_by_jeremymallin.jpg){ width="100%" .center }
 === "Pentes_3"
     ![sloped_bricks_3_by_jeremymallin.jpg](https://ericecmorlaix.github.io/1SI_2021-2022/images/sloped_bricks_3_by_jeremymallin.jpg){ width="100%" .center }
+=== "Unité des dimensions Lego"
+    ![LDU.jpg](https://ericecmorlaix.github.io/1SI_2021-2022/images/LDU.jpg){ width="100%" .center }
 
 Et avec l'aide des vidéos de Ms. DANZI suivantes :
 === "Tutorial 1 (1/3)"
