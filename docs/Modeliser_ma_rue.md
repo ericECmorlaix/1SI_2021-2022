@@ -216,6 +216,30 @@ Et avec l'aide des vidéos de Ms. DANZI suivantes :
 
 A vous de vous organiser en équipe pour produire la maquette d'un premier immeuble conforme aux attendus du Product Owner...
 
+### Rétrospective du Sprint 1 :
+
+Organiser une réunion de rétrospective du Sprint 1, relever la tête du guidon et résumer ci-dessous les points à retenir :
+
+#### Nos points forts, ce qui à bien fonctionné :
+
+- 
+- 
+
+#### Nos points de faiblesses, ce qui à moins bien fonctionné :
+
+- 
+- 
+
+#### Nos points de blocages, ce qui n'a pas fonctionné :
+
+- 
+- 
+
+#### Nos axes d'améliorations envisagés pour la suite   :
+
+- 
+- 
+
 ## Ressources
 
 ### Modélisation 3D
