@@ -15,6 +15,24 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Du 10 au 13/01
+
+- Correction des [exercices 4 et 5](./pdf/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} sur les principales puissances et de quelques exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} concernant l'énergétique ==: => **Faire** en devoir maison les exercices [PERGOLA](https://drive.google.com/file/d/1-R9vLaA3q4cYdeRRvD2e45aeeJE_ZkPR/view){target=_blank} et [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view){target=_blank} et les remettre par [mail] ou en version papier pour le jeudi 13/01 au plus tard== ; 
+
+- Modélisation cinématique des mécanismes, [les liaisons](./pdf/FC_Modelisation_Cinematique-les_liaisons.pdf){target=_blank} :
+    - **Compléter** le [tableau des liaisons cinématiques](./pdf/Tableau_des_Liaisons_à_compléter.pdf){target=_blank} à partir des vidéos de la playlist [Liaisons](https://youtube.com/playlist?list=PLbgyzlFvLKk2_oAjSikC8i2qf4JqE8A7r){target=_blank} et des cours du site [NEWECLIGNE](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation){target=_blank} concernant les [contacts](https://docs.google.com/presentation/d/e/2PACX-1vSZ-0bSgMVY0jn7jnZsSwrG4Fnxgquoe-UFWLtxLezknVQ1daFrILxLiXhOLIj2ry_x3c-lMH3L-Sgy/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank} et les [liaisons](https://docs.google.com/presentation/d/e/2PACX-1vQImG_3mGTzPloqeHZ6yebrBvQ9OFDDH0EJ6ntr5kC39dfuxKIvysbVWn-JGwdRRbEmDKoDwCQXKryj/pub?start=false&loop=false&delayms=60000&slide=id.p){target=_blank} ;
+
+    - **Copier** le document Onshape [Liaisons](https://cad.onshape.com/documents/bdb0077e0fd32049b04b87f6/w/49b5b364a55394ba411ac26b/e/e45c2be32f93d5c667ef864a){target=_blank} et y **créer** des assemblages représentatifs des différentes liaisons...
+
+    - **Faire** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank}
+
+
+***
+## Les 05 et 06/01
+
+- Synthèse du [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) et présentations orales par groupe.
+
+***
 ## Pour la rentrée de janvier :
 
 - [mini-projet "Modeliser_ma_rue"](Modeliser_ma_rue/) ==: => **préparer** un oral de présentation par équipe du produit du sprint 1 ;==
