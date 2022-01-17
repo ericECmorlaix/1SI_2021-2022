@@ -15,6 +15,20 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Le 19 et 20/01 
+
+- Modélisation cinématique des mécanismes :
+    - [TD_Serre_Joint](./pdf/TD_Modelisation_Cinematique_Serre_Joint.pdf){target=_blank} à partir de la maquette [Serre_Joint_3D](./systemes/Serre joint a pompe.zip) ;
+    - [TP_Scie_Sauteuse](./pdf/TP_Modelisation_Cinematique_Scie_Sauteuse.pdf){target=_blank} à partir de la maquette [Scie Sauteuse ERM](./systemes/Scie Sauteuse ERM.zip) ;
+
+- **Lire** le cours et **faire** les exercices de la page [schéma cinématique](https://sites.google.com/view/newecligne/m%C3%A9canique/mod%C3%A9lisation#h.7lox99tb9kg1){target=_blank} ;
+
+## Le 17/01
+
+- Synthèse orale par groupe du [tableau des liaisons cinématiques](./pdf/Tableau_des_Liaisons.pdf){target=_blank} et des assemblages équivalents sur OneShape [Liaisons_Complet](https://cad.onshape.com/documents/1982af944ddb00c206b97fd0/w/3c5af1718bffce6303b4aa9b/e/d7b31fab5f11622c6ca5f655?renderMode=0&uiState=61e57fcb1e79c93d00f48bdf){target=_blank} ;
+
+- **Finir** les exercices [contacts](https://perso.crans.org/geneau/NewCligne/ressources/contact_exo.html){target=_blank} et [liaisons](https://perso.crans.org/geneau/NewCligne/ressources/liaison_exo.html){target=_blank} ;
+
 ## Du 10 au 13/01
 
 - Correction des [exercices 4 et 5](./pdf/Les_principales_puissances-Exercices_supplementaires.pdf){target=_blank} sur les principales puissances et de quelques exercices du site [NEWECLIGNE](https://sites.google.com/view/newecligne/%C3%A9nerg%C3%A9tique){target=_blank} concernant l'énergétique ==: => **Faire** en devoir maison les exercices [PERGOLA](https://drive.google.com/file/d/1-R9vLaA3q4cYdeRRvD2e45aeeJE_ZkPR/view){target=_blank} et [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view){target=_blank} et les remettre par [mail] ou en version papier pour le jeudi 13/01 au plus tard== ; 
