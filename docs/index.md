@@ -15,7 +15,13 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-## Le 19 et 20/01 
+
+## Le 03/02
+
+- Faire les sujets [coupe_tube](./pdf/coupe_tube.pdf){target=_blank} et [imprimante_3D](./pdf/imprimante_3D.pdf){target=_blank} en Devoir Maison pour le 21/02 ;
+
+
+## Du 19/01 au 02/02 
 
 - Modélisation cinématique des mécanismes :
     - [TD_Serre_Joint](./pdf/TD_Modelisation_Cinematique_Serre_Joint.pdf){target=_blank} à partir de la maquette [Serre_Joint_3D](./systemes/Serre joint a pompe.zip) ;
