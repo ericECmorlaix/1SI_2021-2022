@@ -15,11 +15,39 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Du 07 au 14/03
+
+!!! info inline end "Jeudi 10/03 présentation de l'école X"
+
+- Faire les activités du notebook [Circuit_Electrique](./Circuit_Electrique) ;
+
+- Faire les exercices [Circuits_Electriques-Introduction.pdf](https://ericecmorlaix.github.io/1SI_2021-2022/pdf/Circuit_Electrique_Exercices_6-12){target=_blank} ;
+
+- Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9) ;
+
+## Le 03/03
+
+- Evaluation Energie, Puissance et rendement ;
+
+## Les 28/02 et 02/03
+
+- Correction des exercices [PERGOLA](https://drive.google.com/file/d/1-R9vLaA3q4cYdeRRvD2e45aeeJE_ZkPR/view){target=_blank} et [SUNSEARIDER](https://drive.google.com/file/d/11DvcejD6VCThwMBjk6GuaUQ-nUr2EHBi/view){target=_blank} ;
+
+- Projet en fil rouge ;
+
+## Le 24/02
+
+- Evaluation Liaisons et schéma cinématique ;
+
+## Les 21 et 23/02
+
+- Correction des sujets [coupe_tube](./pdf/coupe_tube.pdf){target=_blank} et [imprimante_3D](./pdf/imprimante_3D.pdf){target=_blank} ;
+
+- Projet en fil rouge ;
 
 ## Le 03/02
 
 - Faire les sujets [coupe_tube](./pdf/coupe_tube.pdf){target=_blank} et [imprimante_3D](./pdf/imprimante_3D.pdf){target=_blank} en Devoir Maison pour le 21/02 ;
-
 
 ## Du 19/01 au 02/02 
 
