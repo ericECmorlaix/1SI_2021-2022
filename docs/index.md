@@ -21,9 +21,9 @@
 
 - Faire les activités du notebook [Circuit_Electrique](./Circuit_Electrique) ;
 
-- Faire les exercices [Circuits_Electriques-Introduction.pdf](https://ericecmorlaix.github.io/1SI_2021-2022/pdf/Circuit_Electrique_Exercices_6-12){target=_blank} ;
-
 - Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9) ;
+
+- Faire les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2021-2022/pdf/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
 
 ## Le 03/03
 
