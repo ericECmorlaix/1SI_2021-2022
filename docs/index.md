@@ -15,6 +15,24 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Le 04/04
+
+- Faire les activités du notebook [Robotique-La_fonction_traiter_en_µPython-BBC_microbit](./Robotique-La_fonction_traiter_en_µPython-BBC_microbit) ;
+
+## Du 24 au 31/03
+
+- Révisions des structures de programmation en Python avec la carte BBC micro:bit pour l'[accueil des troisièmes](https://ericecmorlaix.github.io/accueil_3/){target=_blank} ;
+
+## Les 21 et 23/03 
+
+- Correction des exercices 1 à 5 de [Circuit_Electrique](./Circuit_Electrique) ;
+- Finir les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2021-2022/pdf/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
+
+## Le 17/03
+
+- Correction des exercices de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9) sur les 3 lois ;
+- Evaluation lois électriques ;
+
 ## Du 07 au 14/03
 
 !!! info inline end "Jeudi 10/03 présentation de l'école X"
