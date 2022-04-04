@@ -15,9 +15,13 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-## Le 04/04
+## Le 06/04
 
 - Faire les activités du notebook [Robotique-La_fonction_traiter_en_µPython-BBC_microbit](./Robotique-La_fonction_traiter_en_µPython-BBC_microbit) ;
+
+## Le 04/04
+
+- Pas de SI pour BB de Français
 
 ## Du 24 au 31/03
 
