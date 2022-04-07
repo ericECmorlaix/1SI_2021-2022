@@ -15,7 +15,16 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-## Le 06/04
+## Pour le 25/04
+
+- Faire la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} avec le code **akx85h63** ; ==**-> me transmettre par [mail] votre code personnel...**==
+
+- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](./Quick_Pi-Objets_connectes-Parcours_2) ; ==**-> me transmettre par [mail] votre notebook finalisé...**== ;
+
+- [Créer vos propres projets avec le bac à sable QuickPi](http://static-items.algorea.org/files/checkouts/b9d62b976051ae607874425ee5584f5f/testbed/index.html?language=python){target="_blank"}...
+
+
+## Les 06 et 07/04
 
 - Faire les activités du notebook [Robotique-La_fonction_traiter_en_µPython-BBC_microbit](./Robotique-La_fonction_traiter_en_µPython-BBC_microbit) ;
 
