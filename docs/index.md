@@ -15,6 +15,15 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Le 28/04
+
+- Rechercher et compléter les expressions en langage algorithmique (pseudocode) et en langages Python correspondantes aux algorigrammes du document : [FC_algorithmes_algorigrammes.pdf](./FC_algorithmes_algorigrammes.pdf){target=_blank} ;
+
+- Finir les activités du notebook [Robotique-La_fonction_traiter_en_µPython-BBC_microbit](./Robotique-La_fonction_traiter_en_µPython-BBC_microbit) ;
+
+-  Finir la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} et de votre code personnel, pour compléter et me transmettre le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](./Quick_Pi-Objets_connectes-Parcours_2) ;
+
+
 ## Pour le 25/04
 
 - Faire la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} avec le code **akx85h63** ; ==**-> me transmettre par [mail] votre code personnel...**==
