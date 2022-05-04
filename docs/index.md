@@ -17,7 +17,7 @@
 
 ## Pour le 16/05
 
--  Finir la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} et de votre code personnel, pour compléter et me transmettre le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](./Quick_Pi-Objets_connectes-Parcours_2) ;
+-  Finir la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} et de votre code personnel, pour compléter et me transmettre le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target="_blank"} ;
 
 - Découvrir la notion de moment d'une force à partir des activités de la page [MODÉLISATION DES ACTIONS MÉCANIQUES](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank} ;
 
@@ -26,23 +26,23 @@
 
 - Rechercher et compléter les expressions en langage algorithmique (pseudocode) et en langages Python correspondantes aux algorigrammes du document : [FC_algorithmes_algorigrammes.pdf](./FC_algorithmes_algorigrammes.pdf){target=_blank} ;
 
-- Finir les activités du notebook [Robotique-La_fonction_traiter_en_µPython-BBC_microbit](./Robotique-La_fonction_traiter_en_µPython-BBC_microbit) ;
+- Finir les activités du notebook [Robotique-La_fonction_traiter_en_µPython-BBC_microbit](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){target="_blank"} ;
 
--  Finir la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} et de votre code personnel, pour compléter et me transmettre le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](./Quick_Pi-Objets_connectes-Parcours_2) ;
+-  Finir la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} et de votre code personnel, pour compléter et me transmettre le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target="_blank"} ;
 
 
 ## Pour le 25/04
 
 - Faire la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} avec le code **akx85h63** ; ==**-> me transmettre par [mail] votre code personnel...**==
 
-- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](./Quick_Pi-Objets_connectes-Parcours_2) ; ==**-> me transmettre par [mail] votre notebook finalisé...**== ;
+- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target="_blank"} ; ==**-> me transmettre par [mail] votre notebook finalisé...**== ;
 
 - [Créer vos propres projets avec le bac à sable QuickPi](http://static-items.algorea.org/files/checkouts/b9d62b976051ae607874425ee5584f5f/testbed/index.html?language=python){target="_blank"}...
 
 
 ## Les 06 et 07/04
 
-- Faire les activités du notebook [Robotique-La_fonction_traiter_en_µPython-BBC_microbit](./Robotique-La_fonction_traiter_en_µPython-BBC_microbit) ;
+- Faire les activités du notebook [Robotique-La_fonction_traiter_en_µPython-BBC_microbit](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Robotique-La_fonction_traiter_en_µPython-BBC_microbit.ipynb){target="_blank"} ;
 
 ## Le 04/04
 
