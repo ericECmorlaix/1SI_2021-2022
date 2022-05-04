@@ -15,6 +15,13 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Pour le 16/05
+
+-  Finir la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} et de votre code personnel, pour compléter et me transmettre le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](./Quick_Pi-Objets_connectes-Parcours_2) ;
+
+- Découvrir la notion de moment d'une force à partir des activités de la page [MODÉLISATION DES ACTIONS MÉCANIQUES](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank} ;
+
+
 ## Le 28/04
 
 - Rechercher et compléter les expressions en langage algorithmique (pseudocode) et en langages Python correspondantes aux algorigrammes du document : [FC_algorithmes_algorigrammes.pdf](./FC_algorithmes_algorigrammes.pdf){target=_blank} ;
@@ -61,7 +68,7 @@
 
 - Faire les activités du notebook [Circuit_Electrique](./Circuit_Electrique) ;
 
-- Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9) ;
+- Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
 
 - Faire les exercices [Circuits_Electriques_Exercices_6-12.pdf](https://ericecmorlaix.github.io/1SI_2021-2022/pdf/Circuit_Electrique_Exercices_6-12.pdf){target=_blank} ;
 
