@@ -66,7 +66,7 @@
 
 !!! info inline end "Jeudi 10/03 présentation de l'école X"
 
-- Faire les activités du notebook [Circuit_Electrique](./Circuit_Electrique) ;
+- Faire les activités du notebook [Circuit_Electrique](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Circuit_Electrique.ipynb){target=_blank} ;
 
 - Réviser et s'entrainer pour une évaluation à partir de la page [newecligne/electricité](https://sites.google.com/view/newecligne/electricit%C3%A9){target=_blank} ;
 
@@ -191,7 +191,7 @@
 
 - Finir la programmation des objets connectés sur la [plateforme de France-IOI](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
 
-- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1) ; ==**-> me transmettre par [mail] votre code personnel ainsi que le notebook finalisé...**== ;
+- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target="_blank"} ; ==**-> me transmettre par [mail] votre code personnel ainsi que le notebook finalisé...**== ;
 
 - [Créer vos propres projets avec le bac à sable QuickPi](http://static-items.algorea.org/files/checkouts/b9d62b976051ae607874425ee5584f5f/testbed/index.html?language=python){target="_blank"}...
 
@@ -200,7 +200,7 @@
 ## Les 20 et 21/10 :
 
 - Correction de l'évaluation sur les fonctions logiques ;
-- Réalisation d'un corrigé collectif pour l'[exercice du lève vitre électrique](./Fonctions_Logiques-Exercice_Leve_Vitre_Electrique) ;
+- Réalisation d'un corrigé collectif pour l'[exercice du lève vitre électrique](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} ;
 - Complément, réalisation de fonctions logiques avec des transistors,
  reconnaitre les fonctions simulées :
     - <https://tinyurl.com/y6ca4dwn>{target="_blank"} ;
@@ -211,7 +211,7 @@
     Ces circuits utilisent des transistors bipolaires inventés en 1948.
     [Aujourd'hui le transistor MOS constitue,
      par sa simplicité de fabrication et ses performances,
-      l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
+      l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos){target="_blank"}...
 
 - Discussion autour des pistes de projets envisagés :
     - Créer un véhicule électrique et un stand pour [Course en Cours](https://www.course-en-cours.com/fr/){target="_blank"} ;
@@ -247,7 +247,7 @@
 
 - Poursuivre la programmation des objets connectés sur la [plateforme de France-IOI](https://amazon.quick-pi.org/){target="_blank"} avec votre code personnel ;
 
-- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](./Quick_Pi-Objets_connectes-Parcours_1) ;
+- Télécharger puis compléter progressivement le notebook [Quick_Pi-Objets_connectes-Parcours_1.ipynb](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Quick_Pi-Objets_connectes-Parcours_1.ipynb){target="_blank"} ;
 
 - [Créer vos propres projets avec le bac à sable QuickPi](http://static-items.algorea.org/files/checkouts/b9d62b976051ae607874425ee5584f5f/testbed/index.html?language=python){target="_blank"} ;
 
@@ -260,7 +260,7 @@
 
 ## Les 11, 13 et 14/10 :
 
-- Poursuite de l'[exercice d'application au lève vitre électrique](./Fonctions_Logiques-Exercice_Leve_Vitre_Electrique) avec simulation sur [https://logic.ly/demo](https://logic.ly/demo){target=_blank} et [https://fr.vittascience.com](https://fr.vittascience.com/microbit/?lang=fr&mode=mixed){target=_blank} puis expérimentation sur BBC micro:bit ** -> transmettre le notebook complété en PJ d'un [mail][] **
+- Poursuite de l'[exercice d'application au lève vitre électrique](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} avec simulation sur [https://logic.ly/demo](https://logic.ly/demo){target=_blank} et [https://fr.vittascience.com](https://fr.vittascience.com/microbit/?lang=fr&mode=mixed){target=_blank} puis expérimentation sur BBC micro:bit ** -> transmettre le notebook complété en PJ d'un [mail][] **
 
 - Se préparer pour une ==évaluation sur les fonctions logiques pour le 18/10== en faisant les exercices d'entrainement supplémentaires :
     - [Ex1- Lecture d'un logigramme européen](./pdf/Ex1-Lecture_d_un_logigramme_europeen.pdf){target=_blank} ;
@@ -273,20 +273,20 @@
 
 - Poursuite d'étude de la [Logique de la chaine d'information](./FonctionsLogiquesV1) ;
 
-**-> Pour le 11/10, commencer l'[exercice d'application au lève vitre électrique](./Fonctions_Logiques-Exercice_Leve_Vitre_Electrique) et le transmettre au format notebook en PJ d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr)...**
+**-> Pour le 11/10, commencer l'[exercice d'application au lève vitre électrique](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Fonctions_Logiques-Exercice_Leve_Vitre_Electrique.ipynb){target="_blank"} et le transmettre au format notebook en PJ d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr)...**
 ***
 ## Le 05/10 :
 
-- Correction de l'[exercice d'application du doodle Google hommage à Boole](./Fonctions_Logiques-Exercice_Application) ;
+- Correction de l'[exercice d'application du doodle Google hommage à Boole](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Fonctions_Logiques-Exercice_Application.ipynb){target="_blank"} ;
 ***
 ## Le 30/09 :
-- Début d'étude de la [Logique de la chaine d'information](./FonctionsLogiquesV0) ;
+- Début d'étude de la [Logique de la chaine d'information](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/FonctionsLogiquesV0.ipynb){target="_blank"} ;
 > *cf documents pdf associés* : [Description de la Logique d'un Va Et Vient](./pdf/ChaineInformation-LogiqueVaEtVient.pdf){:target="_blank"}  et [Tableau des Fonctions Logiques](./pdf/ChaineInformation-Logique_TableauFonction.pdf){:target="_blank"}.
 
-**-> Pour le 04/10, faire l'[exercice d'application du doodle Google hommage à ?](./Fonctions_Logiques-Exercice_Application) et le transmettre au format notebook en PJ d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr)...**
+**-> Pour le 04/10, faire l'[exercice d'application du doodle Google hommage à ?](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Fonctions_Logiques-Exercice_Application.ipynb){target="_blank"} et le transmettre au format notebook en PJ d'un mail à l'adresse [eric.madec@ecmorlaix.fr](mailto:eric.madec@ecmorlaix.fr)...**
 ***
 ## Le 29/09 :
-- [Correction de l'évaluation numération et codage de l'information](./Correction_Evaluation_Numération) ;
+- [Correction de l'évaluation numération et codage de l'information](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Correction_Evaluation_Numération.ipynb){target="_blank"} ;
 
 ***
 ## Le 27/09 :
@@ -294,7 +294,7 @@
 ***
 ## Les 20, 22 et 23/09 :
 
-- Focus sur la [chaine d'information, notion de numération](./ChaineInformation-Numeration) -> **Faire** les exercices de conversion... ;
+- Focus sur la [chaine d'information, notion de numération](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/ChaineInformation-Numeration.ipynb){target="_blank"} -> **Faire** les exercices de conversion... ;
 
 - Correction du travail demandé ;
 
@@ -304,9 +304,9 @@
 ***
 ## Les 15 et 16/09 :
 
-- Correction du travail demandé ​​​ : diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/) inséré dans un carnet du cours [Analyse Fontionn​elle Externe​​](./OutilsAnalyseFonctionnelleExterne) ; 
+- Correction du travail demandé ​​​ : diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/) inséré dans un carnet du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/OutilsAnalyseFonctionnelleExterne.ipynb){target="_blank"} ; 
 
-- Cours [Analyse Fo​nctionn​elle Intern​e](./OutilsAnalyseFonctionnelleInterne)​​​ : approfondissement du SysML et de l'outil de dessin vectoriel​​ drawio -> Remettre par mail le travail demandé en ​[Analyse Fo​nctionn​elle Intern​e](./OutilsAnalyseFonctionnelleInterne)​​​ ;
+- Cours [Analyse Fo​nctionn​elle Intern​e](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/OutilsAnalyseFonctionnelleInterne.ipynb){target="_blank"}​​​ : approfondissement du SysML et de l'outil de dessin vectoriel​​ drawio -> Remettre par mail le travail demandé en ​[Analyse Fo​nctionn​elle Intern​e](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/OutilsAnalyseFonctionnelleInterne.ipynb){target="_blank"} ;
 
 - Projets...
 ***
@@ -316,9 +316,9 @@
 
 ***
 ## Le 09/09 :
-- Cours [Analyse Fontionn​elle Externe​​](./OutilsAnalyseFonctionnelleExterne)​​ : découverte du SysML et de l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.diagrams.net/){:target="_blank"} ;​​​​
+- Cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/OutilsAnalyseFonctionnelleExterne.ipynb){target="_blank"​​ : découverte du SysML et de l'outil de dessin vectoriel​​ [Draw.io - Diagrams.net](https://www.diagrams.net/){:target="_blank"} ;​​​​
 
-    -> Pour le lundi 13/09 : **reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](./OutilsAnalyseFonctionnelleExterne)​ et le **transmettre** par mail.
+    -> Pour le lundi 13/09 : **reproduire** le diagramme des cas d'utilisation de la bouilloire avec [l'application Draw.io - Diagrams.net](https://app.diagrams.net/){:target="_blank"} puis l'**insérer** dans une cellule​ markdown de votre notebook du cours [Analyse Fontionn​elle Externe​​](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/OutilsAnalyseFonctionnelleExterne.ipynb){target="_blank"​ et le **transmettre** par mail.
 
 ***
 ## Le 08/09 :

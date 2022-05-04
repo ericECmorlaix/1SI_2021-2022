@@ -18,18 +18,18 @@ docs_dir: docs
 nav: 
     - Cahier de texte : index.md
     - Présentation : presentation.md
-    # - Les notebook jupyter :
-    #   - Découverte : decouverte-notebook.ipynb
-    #   - Markdown : MarkDown-Le_BN_pour_rapporter.ipynb
-    #   - HTML : HTML-Le_BN_pour_multimedier.ipynb
-    #   - LaTeX : LaTeX-Le_BN_pour_formuler.ipynb
-    #   - Calcul : Arithmetique-Le_BN_pour_calculer.ipynb
-    # - Analyse Fonctionnelle :
-    #   - Externe : OutilsAnalyseFonctionnelleExterne.ipynb
-    #   - Interne : OutilsAnalyseFonctionnelleInterne.ipynb
-    # - Chaine d'information :
-    #   - Numération : ChaineInformation-Numeration.ipynb
-    #   - Logiques : FonctionsLogiquesV1.ipynb
+    - Les notebook jupyter :
+      - Découverte : https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/decouverte-notebook.ipynb
+      - Markdown : https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/MarkDown-Le_BN_pour_rapporter.ipynb
+      - HTML : https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/HTML-Le_BN_pour_multimedier.ipynb
+      - LaTeX : https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/LaTeX-Le_BN_pour_formuler.ipynb
+      - Calcul : https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Arithmetique-Le_BN_pour_calculer.ipynb
+    - Analyse Fonctionnelle :
+      - Externe : https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/OutilsAnalyseFonctionnelleExterne.ipynb
+      - Interne : https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/OutilsAnalyseFonctionnelleInterne.ipynb
+    - Chaine d'information :
+      - Numération : https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/ChaineInformation-Numeration.ipynb
+      - Logiques : https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/FonctionsLogiquesV1.ipynb
     - Projet :
       - Modeliser_ma_rue.md
     
