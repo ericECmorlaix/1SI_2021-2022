@@ -15,6 +15,14 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Le 16/05
+
+- **Faire** les activités de la page [MODÉLISATION DES ACTIONS MÉCANIQUES](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank} ;
+
+- A partir de l'observation de la page [elongationRessortFonctionMasse.html](http://www.insyte.website/pedagogie/sequencePeda/caracteriserTransfertEnergie/elongationRessortFonctionMasse.html){target=_blank} **établir** une relation entre l'allongement du ressort et l'action mécanique de la pesanteur qui s'exerce sur la masse marquée ;​
+
+- **Faire** l'étude du [Xtrack](./Xtrack.pdf){target=_blank} ;
+
 ## Pour le 16/05
 
 -  Finir la programmation des objets connectés à partir de la plateforme [**Castor Informatique France-IOI**](https://concours.castor-informatique.fr/){target="_blank"} et de votre code personnel, pour compléter et me transmettre le notebook [Quick_Pi-Objets_connectes-Parcours_2.ipynb](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Quick_Pi-Objets_connectes-Parcours_2.ipynb){target="_blank"} ;
