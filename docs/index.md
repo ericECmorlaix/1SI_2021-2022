@@ -15,6 +15,14 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Les 23 et 25/05 : se préparer pour l'évaluation du 31/05
+
+- **Finir** les activités de la page [MODÉLISATION DES ACTIONS MÉCANIQUES](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank} et **Faire** celles de la page [RÉSOLUTION ANALYTIQUE](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/r%C3%A9solution-analytique){target=_blank} ;
+
+- **Faire** l'étude statique du [MELODY](./TD-MELODY-Statique.pdf){target=_blank} ;
+
+- **Faire** l'étude statique d'une béquile de moto [en pdf](./Actions_Mecaniques-Bequille_De_Moto.pdf){target=_blank} ou [en Notebook](https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Actions_Mecaniques-Bequille_De_Moto.ipynb){target="_blank"}  ;
+
 ## Le 16/05
 
 - **Faire** les activités de la page [MODÉLISATION DES ACTIONS MÉCANIQUES](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank} ;
