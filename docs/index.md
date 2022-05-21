@@ -15,7 +15,7 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-## Les 23 et 25/05 : se préparer pour l'évaluation du 31/05
+## Les 23 et 25/05 (==se préparer pour l'évaluation du 30/05==) :
 
 - **Finir** les activités de la page [MODÉLISATION DES ACTIONS MÉCANIQUES](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank} et **Faire** celles de la page [RÉSOLUTION ANALYTIQUE](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/r%C3%A9solution-analytique){target=_blank} ;
 
