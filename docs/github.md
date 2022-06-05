@@ -100,21 +100,13 @@ Dans l'éditeur qui s'ouvre, saisir le nom du fichier avec son extension et son 
 </figure>
 
 <figure>
-    <video width=80% controls autoplay>
-        <source src="https://ericecmorlaix.github.io/vid/GitHub-Ajout_Dossier_Fichier.mp4" type="video/mp4">  
-        Your browser does not support the video tag.
-    </video>
-        
     <figcaption>
-        Comment éditer une arborescence de dossiers sur GitHub ? <br>
-        <a href="https://www.youtube-nocookie.com/embed/0a19JTSxclw" target="blank">
-            Voir la vidéo sur Youtube
-        </a>
-    </figcaption>    
+        Comment éditer une arborescence de dossiers sur GitHub ?        
+    </figcaption>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0a19JTSxclw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+    </iframe> 
 </figure>
-<figure>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0a19JTSxclw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
+
 
 **Faire** un nouveau **Commit** avec le message : `ajout fichier index.md dans dossier docs`
 
