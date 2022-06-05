@@ -47,7 +47,7 @@ Le fichier `README` à pour extension `.md` pour [**MarkDown**](https://fr.wikip
 
 !!! tip "L'onglet `Preview` permet de visualiser le résultat avant sa publication..."
 
-??? exemple "Code exemple à copier/coller"    
+??? example "Code exemple à copier/coller"    
     ```md
     ## Voici un titre de niveau 2
     ### Et voici un titre de niveau 3
@@ -128,46 +128,73 @@ Depuis le dossier `docs`, **Cliquer** sur le bouton `Add file` depuis l'interfac
 
 !!! tip "Partager votre écran pour Glisser/Déposer vos dossiers et/ou vos fichiers"
 
-**Committer** !
+???+ example "Exemple à faire vous même :"    
+    - **glisser/déposer** un fichier image dans le dossier `docs` ;
+    - **Committer** ;
+    - **Editer** le fichier `index.md` en y ajoutant l'instruction MarkDown `![image de ...?](nom_du_fichier_image.png)` ;
+    - **Prévisualiser** pour vérifier le bon affichage de l'image ;
+    - **Committer** ;
 
-## Complément pour éditer dans votre navigateur
-
-Vous disposez maintenant d'un dépot pour vos fichiers et dossier sur GitHub.
-
-Ceci est un tutoriel complémentaire pour développer et maintenir votre site depuis votre navigateur avec l'éditeur Visual Studio Code.
-
+## Utiliser VSC en ligne pour gérer votre dépot GitHub
 
 ### Préparation
 
-Pour faire fonctionner un Visual Studio Code dans un navigateur et ainsi piloter des dépôts GitHub depuis n’importe quelle machine sans installation locale on peut faire une demande de béta testeur auprès de Microsoft pour obtenir [GitHub Codespaces](https://visualstudio.microsoft.com/fr/services/github-codespaces/){target=_blank}...
+Pour faire fonctionner l'[IDE](https://fr.wikipedia.org/wiki/Environnement_de_d%C3%A9veloppement){target=_blank} Visual Studio Code dans un navigateur et ainsi développer et maintenir des dépôts GitHub depuis n’importe quelle machine sans installation locale on peut utiliser [https://www.gitpod.io/](https://www.gitpod.io/){target=_blank} :
 
-En attendant, on peut utiliser [https://www.gitpod.io/](https://www.gitpod.io/){target=_blank} :
+- **Signer** avec votre compte GitHub ;
+- **Choisir** VS Code BROWSER ;
+- **Cliquer** sur `New Workspace` ;
+- **Rechercher** puis choisir votre dépot dans la liste...
 
-- Signer avec votre compte GitHub ;
-- Choisir VS Code BROWSER ;
-- Cliquer sur `New Workspace` ;
-- Rechercher puis choisir votre dépot dans la liste...
+Tous les dossiers et fichiers de votre dépot sont alors éditables dans l'environnement de développement intégré Visual Studio Code en ligne.
 
-Tous les dossiers et fichiers de votre dépot sont alors éditables dans l'environnement de développement intégré Visual Studio Code fonctionnant ici dans votre navigateur.
-
-
+<figure>
+    <img src="https://ericecmorlaix.github.io/img/GitPod01.png" alt="GitPod VSC Explorer">
+</figure>
 
 ### ==La routine pour maintenir votre site Git avec un éditeur VSC en ligne se résume à :==
 
-??? summary "I - Modifier vos fichiers depuis la machine virtuelle :"
-    Depuis l'Explorateur (`Explorer` ++"Ctrl"+"Maj"+"E"++) de VSC ,
-     cliquer sur un fichier pour l'ouvrir dans l'éditeur afin de le modifier ;
+??? summary "I - Modifier vos fichiers sur la machine virtuelle GitPod :"
+    Depuis l'Explorateur (`Explorer` ++"Ctrl"+"Maj"+"E"++) de VSC (_bleu_) :
+
+    - cliquer sur un dossier pour afficher la liste de son contenu ;
+    - cliquer sur les icônes (_jaunes_) pour créer un nouveau fichier et/ou un nouveau dossier ;
+    - maintenir le clic sur un fichier (ou un dossier) pour le déplacer dans l'arborescence ;
+    - cliquer sur un fichier pour l'ouvrir dans l'éditeur afin de le modifier ;
+    - cliquer droit sur un fichier `.md` et choisir `Open preview` pour le prévisualiser ;
+
+<figure>
+    <img src="https://ericecmorlaix.github.io/img/GitPod02.png" alt="GitPod VSC Explorer">
+</figure>
+
 
 ??? summary "II - Indexer vos changements :"
-    Depuis le "Contrôle de code source" (`Source Control` ++"Ctrl"+"Maj"+"G"++),
-     dans "Changements" (`Changes`) cliquer sur le `+` pour ajouter les fichiers modifiés
+    Depuis le "Contrôle de code source" (_vert_) (`Source Control` ++"Ctrl"+"Maj"+"G"++),
+     dans "Changements" (`Changes`) cliquer sur le `+` (_orange_) pour ajouter les fichiers modifiés
       à mettre en attente (indexer) dans cette phase (stage) de développement ;
 
 ??? summary "III - Committer, valider vos modifications :"
-    Ajouter un message sous "CONTRÔLE DE CODE SOURCE" (`SOURCE CONTROL`)
+    Ajouter un message sous "CONTRÔLE DE CODE SOURCE" (`SOURCE CONTROL`) (_rose_)
      pour définir ces modifications à ce stade de votre développement,
-      puis cliquer sur `✓` pour valider ce commit ;
+      puis cliquer sur `✓` (_violet_) pour valider ce commit ;
 
 ??? summary "IV - Pousser les modifications vers votre dépôt distant :"
     Cliquer sur les `...` en face de `CONTRÔLE DE CODE SOURCE`
     et choisir `Push` ;
+
+    
+??? example "Exemple à faire vous même :"
+
+    - **cliquer** sur l'icone `New Folder` (_jaune_) pour créer un nouveau dossier nommé `images` ;
+    - **déplacer** votre fichier image dans le dossier `images` ;
+    - **cliquer** sur le fichier `index.md` pour l'ouvrir dans l'éditeur ;
+    - **cliquer**  droit le fichier `index.md`et choisir `Open preview` pour le prévisualiser ;
+    - **glisser** l'onglet de la fenêtre de prévisualisation sur le coté droit ;
+    - **modifier** le chemin relatif vers l'image dans l'instruction MarkDown `![image de ...?](images/nom_du_fichier_image.png)` ; 
+    - **prévisualiser** pour vérifier le bon affichage de l'image ;
+    - **indexer**, **Commiter** puis **Pousser** vos modifications ;
+    - **vérifier** la mis à jour de votre dépôt ;
+
+<figure>
+    <img src="https://www.gitpod.io/images/illustration-large.png" alt="Glisser/Déposer">
+</figure>
