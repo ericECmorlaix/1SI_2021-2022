@@ -1,0 +1,1298 @@
+<!-- Ajout pour le bouton de téléchargement et le style des jupyter notebook   https://github.com/danielfrg/mkdocs-jupyter -->
+
+
+<!doctype html>
+<html lang="fr" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Sciences de l'Ingénieur en classe de première au lycée Notre Dame du Mur de MORLAIX.">
+      
+      
+        <meta name="author" content="Eric MADEC">
+      
+      
+        <link rel="canonical" href="https://ericecmorlaix.github.io/1SI_2021-2022/Modeliser_ma_rue/">
+      
+      <link rel="icon" href="../images/LogoIO-blue.png">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.3.2">
+    
+    
+      
+        <title>Mini-projet collectif : "modéliser ma rue" - 1SI_2021-2022</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.5d38496d.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.cbb835fc.min.css">
+        
+      
+      
+    
+    
+    
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#mini-projet-collectif-modeliser-ma-rue" class="md-skip">
+          Aller au contenu
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="En-tête">
+    <a href=".." title="1SI_2021-2022" class="md-header__button md-logo" aria-label="1SI_2021-2022" data-md-component="logo">
+      
+  <img src="../images/LogoIO.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            1SI_2021-2022
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Mini-projet collectif : "modéliser ma rue"
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="blue" data-md-color-accent="indigo"  aria-label="Basculer en mode sombre"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Basculer en mode sombre" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5c-.84 0-1.65.15-2.39.42L12 2M3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29L3.34 7m.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14L3.36 17M20.65 7l-1.77 3.79a7.023 7.023 0 0 0-2.38-4.15l4.15.36m-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29L20.64 17M12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44L12 22Z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="blue"  aria-label="Basculer en mode clair"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Basculer en mode clair" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3 3.19.09m3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95 2.06.05m-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31Z"/></svg>
+            </label>
+          
+        
+      </form>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Rechercher" placeholder="Rechercher" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Effacer" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initialisation de la recherche
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/ericECmorlaix/1SI_2021-2022" title="Aller au dépôt" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    1SI_2021-2022
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Onglets" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href=".." class="md-tabs__link">
+      Cahier de texte
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../presentation/" class="md-tabs__link">
+      Présentation
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/decouverte-notebook.ipynb" class="md-tabs__link">
+        Les notebook jupyter
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/OutilsAnalyseFonctionnelleExterne.ipynb" class="md-tabs__link">
+        Analyse Fonctionnelle
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/ChaineInformation-Numeration.ipynb" class="md-tabs__link">
+        Chaine d'information
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="./" class="md-tabs__link md-tabs__link--active">
+        Projet
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../github/" class="md-tabs__link">
+      GitHub+MarkDown+GitPod+...
+    </a>
+  </li>
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="1SI_2021-2022" class="md-nav__button md-logo" aria-label="1SI_2021-2022" data-md-component="logo">
+      
+  <img src="../images/LogoIO.png" alt="logo">
+
+    </a>
+    1SI_2021-2022
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/ericECmorlaix/1SI_2021-2022" title="Aller au dépôt" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    1SI_2021-2022
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        Cahier de texte
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../presentation/" class="md-nav__link">
+        Présentation
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Les notebook jupyter
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Les notebook jupyter" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Les notebook jupyter
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/decouverte-notebook.ipynb" class="md-nav__link">
+        Découverte
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/MarkDown-Le_BN_pour_rapporter.ipynb" class="md-nav__link">
+        Markdown
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/HTML-Le_BN_pour_multimedier.ipynb" class="md-nav__link">
+        HTML
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/LaTeX-Le_BN_pour_formuler.ipynb" class="md-nav__link">
+        LaTeX
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/Arithmetique-Le_BN_pour_calculer.ipynb" class="md-nav__link">
+        Calcul
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          Analyse Fonctionnelle
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Analyse Fonctionnelle" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Analyse Fonctionnelle
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/OutilsAnalyseFonctionnelleExterne.ipynb" class="md-nav__link">
+        Externe
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/OutilsAnalyseFonctionnelleInterne.ipynb" class="md-nav__link">
+        Interne
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          Chaine d'information
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Chaine d'information" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Chaine d'information
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/ChaineInformation-Numeration.ipynb" class="md-nav__link">
+        Numération
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="https://nbviewer.org/github/ericECmorlaix/1SI_2021-2022/blob/main/docs/FonctionsLogiquesV1.ipynb" class="md-nav__link">
+        Logiques
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_6">
+          Projet
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Projet" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Projet
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Mini-projet collectif : "modéliser ma rue"
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Mini-projet collectif : "modéliser ma rue"
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#but" class="md-nav__link">
+    But :
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#contraintes" class="md-nav__link">
+    Contraintes
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#production-attendue" class="md-nav__link">
+    Production attendue
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#une-organisation-agile" class="md-nav__link">
+    Une organisation agile :
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sprint-0-prise-en-main-du-workflow" class="md-nav__link">
+    Sprint 0, prise en main du workflow
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sprint-1-mise-en-application-du-workflow" class="md-nav__link">
+    Sprint 1, mise en application du workflow
+  </a>
+  
+    <nav class="md-nav" aria-label="Sprint 1, mise en application du workflow">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#retrospective-du-sprint-1" class="md-nav__link">
+    Rétrospective du Sprint 1 :
+  </a>
+  
+    <nav class="md-nav" aria-label="Rétrospective du Sprint 1 :">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nos-points-forts-ce-qui-a-bien-fonctionne" class="md-nav__link">
+    Nos points forts, ce qui à bien fonctionné :
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#-" class="md-nav__link">
+    -
+  </a>
+  
+    <nav class="md-nav" aria-label="-">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nos-points-de-faiblesses-ce-qui-a-moins-bien-fonctionne" class="md-nav__link">
+    Nos points de faiblesses, ce qui à moins bien fonctionné :
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#-_1" class="md-nav__link">
+    -
+  </a>
+  
+    <nav class="md-nav" aria-label="-">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nos-points-de-blocages-ce-qui-na-pas-fonctionne" class="md-nav__link">
+    Nos points de blocages, ce qui n'a pas fonctionné :
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#-_2" class="md-nav__link">
+    -
+  </a>
+  
+    <nav class="md-nav" aria-label="-">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nos-axes-dameliorations-envisages-pour-la-suite" class="md-nav__link">
+    Nos axes d'améliorations envisagés pour la suite   :
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#-_3" class="md-nav__link">
+    -
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#ressources" class="md-nav__link">
+    Ressources
+  </a>
+  
+    <nav class="md-nav" aria-label="Ressources">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#modelisation-3d" class="md-nav__link">
+    Modélisation 3D
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#scrum" class="md-nav__link">
+    SCRUM
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../github/" class="md-nav__link">
+        GitHub+MarkDown+GitPod+...
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+
+
+
+
+
+                
+  <a href="https://github.com/ericECmorlaix/1SI_2021-2022/tree/main/docs/Modeliser_ma_rue.md" title="Editer cette page" class="md-content__button md-icon">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25Z"/></svg>
+  </a>
+
+
+
+<h1 id="mini-projet-collectif-modeliser-ma-rue">Mini-projet collectif : "modéliser ma rue"<a class="headerlink" href="#mini-projet-collectif-modeliser-ma-rue" title="Permanent link">&num;</a></h1>
+<h2 id="but">But :<a class="headerlink" href="#but" title="Permanent link">&num;</a></h2>
+<p>On souhaite construire une maquette 3D très simplifiée,
+un modèle visuel représentatif de l'organisation architecturale d'une rue incluant certaines fonctionnalités.</p>
+<figure>
+<p><img alt="rue-félix-le-dantec-brest" class="center" src="https://latribudanaximandre.files.wordpress.com/2017/04/maisons-colorc3a9es-rue-fc3a9lix-le-dantec-brest-02_shiftn-copie.jpg" width="60%" />
+  </p>
+<figcaption>
+<p>Vue de la rue Félix le Dantec à Brest, <a href="https://www.ouest-france.fr/bretagne/brest-29200/la-rue-felix-le-dantec-un-eloge-la-couleur-3392764" target="_blank">un éloge à la couleur</a>
+  </p>
+</figcaption>
+</figure>
+<p>On utilisera pour cela des briques de LEGO Classic</p>
+<p><img alt="lego-classic-le-cube-de-construction" class="center" src="https://thumbs.coleka.com/media/item/201803/09/lego-classic-le-cube-de-construction-creative-lego-10681-002.webp" width="60%" /></p>
+<details class="note">
+<summary>Des LEGO, vous n'êtes pas sérieux ? C'est pour les enfants, nous, on est au lycée, en Sciences de l'Ingénieur !</summary>
+<ul>
+<li>Renault a développé sa motorisation hybride innovante E-TECH à partir d'une maquette réalisée en LEGO :</li>
+</ul>
+<p><figure>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/CULl1tVTOhM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   <br />
+</figure></p>
+<ul>
+<li>En entreprise, des formations s'appuient sur la réalisation de modèles 3D avec des pièces LEGO :  </li>
+</ul>
+<p><figure markdown>
+  <img alt="lego-serious-play-starter-set" class="center" src="https://www.plays-in-business.com/wp-content/uploads/2019/01/lego-serious-play-starter-set.jpg" width="70%" />
+  <figcaption markdown>
+   La méthodologie LEGO®SERIOUS PLAY® à <a href="https://exed.centralesupelec.fr/formation/certificate-in-facilitating-amp-designing-workshops-with-the-lego-serious-play-method-2/" target="_blank">CentraleSupélec</a>
+  </figcaption>
+  <img alt="lego-serious-play-entreprise" class="center" src="https://www.robot-advance.com/userfiles/www.robot-advance.com/images/lego-serious-play-entreprise.jpg" width="70%" />
+</figure></p>
+<p><figure>    <br />
+  <figcaption markdown>
+   <a href="https://www.lego4scrum.com/" target="_blank">Lego4Scrum</a> pour expérimenter une démarche agile
+  </figcaption>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TsfdB3wBlLI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   <br />
+</figure></p>
+</details>
+<p>Cependant, les pièces de Lego dont nous disposons au laboratoire de SI sont très limitées en nombres, en type, en couleur... Aussi, pour étendre nos possibilités de construction, nous allons produire une maquette numérique en 3D.</p>
+<p>Différentes solutions logicielles permettent de réaliser des constructions virtuelles à base de LEGO, nous utiliserons <strong>OnShape</strong> qui fonctionne sur PC comme sur iPad, avec la possibilité de partager nos réalisations en ligne et potentiellement d'exporter nos pièces personalisées pour les fabriquer en impression 3D...</p>
+<details class="example">
+<summary>Si vous ne connaissez pas l'application <strong>OnShape</strong> il va vous falloir préalablement la prendre en main : ...</summary>
+<p><figure markdown>
+<img alt="Onshape" class="center" src="https://ericecmorlaix.github.io/1SI_2021-2022/images/Onshape.png" width="60%" />
+</figure></p>
+<p><p>
+    <a href="https://www.onshape.com/" target="_blank">OnShape</a> est une application web qui permet de modéliser en 3D à la manière de SolidWorks mais dans un navigateur. Elle sera donc disponible sur l’ensemble de vos appareils (ordinateur, tablette, smartphone) tant au lycée qu’en dehors.<br>
+    Pour utiliser Onshape, et bénéficier gratuitement d’un compte professionnel pour l’éducation, il faut s'inscrire sur le site <a href="https://www.onshape.com/edu" target="_blank">https://www.onshape.com/edu</a> en cliquant sur le boutton <a href="https://cad.onshape.com/signup2?basicdataid=882c39dc-b273-4a58-a8f4-38562f02001a&extendeddataid=e49c85b6-e574-4303-a137-259ac45146a1&enable_cookie=check&locale=en_US&approveUser=yes&planid=EDU_YEARLY" target="_blank">"Get Started"</a>.<br>
+Educator et student ont les mêmes possibilités qu’un compte PRO. Pour un compte Education, le logo EDU apparaîtra sur tous les documents.</p>
+<figure markdown>
+<figcaption>Renseigner alors tous les champs du formulaire en deux étapes.</figcaption>
+<img alt="Onshape" class="center" src="https://ericecmorlaix.github.io/1SI_2021-2022/images/OnshapeFormulaire01.png" width="60%" />
+<img alt="Onshape" class="center" src="https://ericecmorlaix.github.io/1SI_2021-2022/images/OnshapeFormulaire02.png" width="60%" />
+<figcaption>Dans une troisième étape, il faut valider l'inscription depuis le mail reçu et définir un mot de passe...</figcaption>
+</figure>
+<p>
+    Une fois le compte activé, on peut gérer les paramètres du compte à partir du menu déroulant en haut à droite, en cliquant sur "My account".
+</p>
+<p>
+    On peut alors gérer les préférences à partir du menu listé à gauche. Il est utile notamment de changer les unités par défaut, opter pour une manipulation dans la fenêtre graphique équivalente à SolidWorks…
+</p></p>
+<p><p>Par la suite, pour modéliser avec Onshape il faut se connecter sur le site <a href="https://cad.onshape.com" target="_blank">https://cad.onshape.com</a></p>
+<p>Des tutoriels pour Onshape sont disponibles sur le site : <a href="https://learn.onshape.com/" target="_blank">https://learn.onshape.com</a> </p>
+<p>
+    Ressources :
+    <ul>
+        <li>
+            <a href="https://www.youtube.com/channel/UCTvd5lUSLtTH8Qcd7Pl1nQg" target="_blank">Une chaine Youtube</a> ;
+        </li>
+        <li>
+            <a href="https://forum.onshape.com/" target="_blank">Un forum</a>
+        </li>
+        <li>
+            <a href="https://forum.onshape.com/discussion/comment/21462#Comment_21462" target="_blank">Un groupe d'utilisateur francophone​</a>
+        </li>
+    </ul>
+</p></p>
+</details>
+<hr />
+<h2 id="contraintes">Contraintes<a class="headerlink" href="#contraintes" title="Permanent link">&num;</a></h2>
+<p>Dans ma rue, les contraintes urbanistiques sont les suivantes :</p>
+<ul>
+<li>Les immeubles ont au minimum un rez-de-chaussée et au maximum 3 étages (4 niveaux) ;</li>
+<li>Les immeubles ont une couleur principale unique pour toute la façade ;</li>
+<li>Chaque niveau (rez-de-chaussée ou étage) a une façade de hauteur standard ;</li>
+<li>Les rez-de-chaussée n'ont qu'une seule porte et une ou deux fenêtres ;</li>
+<li>Toutes les fenêtres sont identiques, de taille standard ;</li>
+<li>Toutes les portes fenêtres ont un balcon ;</li>
+<li>Le toit peut être plat ou avec pente ;</li>
+</ul>
+<p>Outre les immeubles, dans ma rue, il y a éventuellement d'autres fonctionnalités comme :</p>
+<ul>
+<li>Un magasin ;</li>
+<li>Une école ;</li>
+<li>Une église ;</li>
+<li>Un hopital ;</li>
+<li>Un poste de police ;</li>
+<li>Un arrêt de bus ;</li>
+<li>un jardin public ;</li>
+<li>un pont, car ma rue est peut être traversée par une rivière ;</li>
+<li>une intersection, car ma rue croise d'autres rues pour former un quartier, une agglomération, une ville...</li>
+</ul>
+<div class="admonition note">
+<p>Seule la construction des façades est requise dans la mesure ou le visuel depuis la rue est suffisamment représentatif de l'architecture générale.</p>
+</div>
+<h2 id="production-attendue">Production attendue<a class="headerlink" href="#production-attendue" title="Permanent link">&num;</a></h2>
+<p>Livrer une maquette numérique 3D qui répond au problème posé en utilisant principalement <strong>OnShape</strong>.</p>
+<p>Définir, partager et exploiter, le plus d'éléments modulaires possibles : fonctions, pièces, sous-assemblages...</p>
+<p>Vérifier systématiquement, en amont ou en aval, la faisabilité de tout modèle virtuel avec des pièces de LEGO réelles.</p>
+<div class="admonition note">
+<p>D'autres exigences et contraintes pourront être précisées en cours de projet. Il faudra s'y adapter avec agilité...</p>
+</div>
+<h2 id="une-organisation-agile">Une organisation agile :<a class="headerlink" href="#une-organisation-agile" title="Permanent link">&num;</a></h2>
+<p>Vous travaillerez collectivement, en interdépendance via l'importations de fichiers partagés, et en mode agile, par équipes de 4 à 5 élèves + 1 professeur qui jouera le role de <a href="https://www.orientation.com/metiers/product-owner">Product Owner</a>, il est le principal décideur sur le produit.</p>
+<p>Les équipe ne sont pas en compétition : travaillant dans une même entreprise et à destination d'un même client, chaque équipe de réalisation s'auto-organise afin de concourrir à la réussite du projet global.</p>
+<p>Dans chaque équipe de réalisation vous désignerez un volontaire pour être <a href="https://www.clementine.jobs/fiches-metiers/metiers-techniques-du-web/scrum-master/#:~:text=Le%20Scrum%20Master%20est%20avant,en%20suivant%20la%20m%C3%A9thode%20Scrum.">Scrum Master</a>.</p>
+<p>Tout le monde participe activement au processus de développement de la maquette 3D y compris le <a href="https://www.orientation.com/metiers/product-owner">Product Owner</a> en ressource pour répondre à tout besoin (<em>mais pas trop parce qu'il n'a pas que ça à faire !</em> <img alt="😉" class="twemoji" src="https://twemoji.maxcdn.com/v/latest/svg/1f609.svg" title=":wink:" /> ).</p>
+<p>Ce projet sera donc aussi l'occasion de découvrir et d'expérimenter les rudiments d'une méthode agile que présente les vidéos suivantes...</p>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:3"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Les rôles clés</label><label for="__tabbed_1_2">La chronologie</label><label for="__tabbed_1_3">Le déroulement</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><figure>    <br />
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VpdFpZ_w5x8?start=30" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>Les rôles clés de l'équipe Agile</figcaption>
+</figure></p>
+</div>
+<div class="tabbed-block">
+<p><figure>    <br />
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/-HV_MW5KgVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>La chronologie d'un projet agile</figcaption>
+</figure></p>
+</div>
+<div class="tabbed-block">
+<p><figure>    <br />
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WNYcSxbJvsc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>Le déroulement d'un projet en mode Agile</figcaption>
+</figure></p>
+</div>
+</div>
+</div>
+<p>Le développement du projet va donc se décomposer en plusieurs sprints.</p>
+<p>Le premier sprint, en fait le sprint zéro, sera collectif et piloter par le <a href="https://www.orientation.com/metiers/product-owner">Product Owner</a> afin que chacun comprenne le besoin du client et prenne en main l'environnement de travail (workflow) qu'il faudra appliquer pour la suite du développement. Le livrable attendu pour ce sprint est un fichier présentant l'assemblage d'au moins deux briques LEGO de base.</p>
+<p>Les sprints suivants seront menés au sein de chaque équipe où les Scrums Master veilleront à animer les cérémonies de sprint, 
+la répartition des tâches pour chaque User Story, qui seront ici les éléments modulaires à produire en commençant par ceux de base qui ne dépendent pas des autres.</p>
+<p>Ainsi le Sprint 1 devrait contenir quatre User Stories pour produire respectivement les modules toit, fenêtre, porte, façade...  </p>
+<p><em>A vous de jouer !</em>
+<em>C'est parti pour le <strong>Sprint...</strong>, rendez-vous au prochain <strong>Scrum...</strong></em></p>
+<blockquote>
+<p>Etres agile c'est avant tout une posture, qui au delà des aspects techniques de la réalisation, nous conduit à surveiller également la méthode de développement et l'organisation dans l'équipe avec le souci constant de la réussite collective du projet et de la satisfaction des clients, les Key Users.</p>
+</blockquote>
+<h2 id="sprint-0-prise-en-main-du-workflow">Sprint 0, prise en main du workflow<a class="headerlink" href="#sprint-0-prise-en-main-du-workflow" title="Permanent link">&num;</a></h2>
+<p>En observant les briques de LEGO Classic et les images ci-dessous :</p>
+<div class="tabbed-set tabbed-alternate" data-tabs="2:6"><input checked="checked" id="__tabbed_2_1" name="__tabbed_2" type="radio" /><input id="__tabbed_2_2" name="__tabbed_2" type="radio" /><input id="__tabbed_2_3" name="__tabbed_2" type="radio" /><input id="__tabbed_2_4" name="__tabbed_2" type="radio" /><input id="__tabbed_2_5" name="__tabbed_2" type="radio" /><input id="__tabbed_2_6" name="__tabbed_2" type="radio" /><div class="tabbed-labels"><label for="__tabbed_2_1">Briques</label><label for="__tabbed_2_2">Plaques</label><label for="__tabbed_2_3">Pentes_1</label><label for="__tabbed_2_4">Pentes_2</label><label for="__tabbed_2_5">Pentes_3</label><label for="__tabbed_2_6">Unité des dimensions Lego</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><img alt="bricks_by_jeremymallin.jpg" class="center" src="https://ericecmorlaix.github.io/1SI_2021-2022/images/bricks_by_jeremymallin.jpg" width="100%" /></p>
+</div>
+<div class="tabbed-block">
+<p><img alt="plates_by_jeremymallin.jpg" class="center" src="https://ericecmorlaix.github.io/1SI_2021-2022/images/plates_by_jeremymallin.jpg" width="100%" /></p>
+</div>
+<div class="tabbed-block">
+<p><img alt="sloped_bricks_by_jeremymallin.jpg" class="center" src="https://ericecmorlaix.github.io/1SI_2021-2022/images/sloped_bricks_by_jeremymallin.jpg" width="100%" /></p>
+</div>
+<div class="tabbed-block">
+<p><img alt="sloped_bricks_2_by_jeremymallin.jpg" class="center" src="https://ericecmorlaix.github.io/1SI_2021-2022/images/sloped_bricks_2_by_jeremymallin.jpg" width="100%" /></p>
+</div>
+<div class="tabbed-block">
+<p><img alt="sloped_bricks_3_by_jeremymallin.jpg" class="center" src="https://ericecmorlaix.github.io/1SI_2021-2022/images/sloped_bricks_3_by_jeremymallin.jpg" width="100%" /></p>
+</div>
+<div class="tabbed-block">
+<p><img alt="LDU.jpg" class="center" src="https://ericecmorlaix.github.io/1SI_2021-2022/images/LDU.jpg" width="100%" /></p>
+</div>
+</div>
+</div>
+<p>Et avec l'aide des vidéos de Ms. DANZI suivantes :</p>
+<div class="tabbed-set tabbed-alternate" data-tabs="3:3"><input checked="checked" id="__tabbed_3_1" name="__tabbed_3" type="radio" /><input id="__tabbed_3_2" name="__tabbed_3" type="radio" /><input id="__tabbed_3_3" name="__tabbed_3" type="radio" /><div class="tabbed-labels"><label for="__tabbed_3_1">Tutorial 1 (1/3)</label><label for="__tabbed_3_2">Tutorial 1 (2/3)</label><label for="__tabbed_3_3">Tutorial 1 (3/3)</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><figure>    <br />
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mZmQ34hlW_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>Tutorial 1 Onshape | Lego Bricks | (1/3)</figcaption>
+</figure></p>
+</div>
+<div class="tabbed-block">
+<p><figure>    <br />
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/p0nUhcJVdOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>Tutorial 1 Onshape | Lego Plates | (2/3)</figcaption>
+</figure></p>
+</div>
+<div class="tabbed-block">
+<p><figure>    <br />
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MEQPDETmOLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <figcaption>Tutorial 1 Onshape | Lego Assembly | (3/3)</figcaption>
+</figure></p>
+</div>
+</div>
+</div>
+<ul>
+<li>
+<p>Réaliser sur OnShape le modèle d'une des briques de LEGO Classic de base utile pour la réalisation du projet "modéliser ma rue" ;</p>
+</li>
+<li>
+<p>Partager votre réalisation avec les autres élèves du groupe ;</p>
+</li>
+<li>
+<p>Réaliser l'assemblage d'une de vos réalisations avec celle d'un de vos pairs ;</p>
+</li>
+</ul>
+<h2 id="sprint-1-mise-en-application-du-workflow">Sprint 1, mise en application du workflow<a class="headerlink" href="#sprint-1-mise-en-application-du-workflow" title="Permanent link">&num;</a></h2>
+<p>A vous de vous organiser en équipe pour produire la maquette d'un premier immeuble conforme aux attendus du Product Owner...</p>
+<h3 id="retrospective-du-sprint-1">Rétrospective du Sprint 1 :<a class="headerlink" href="#retrospective-du-sprint-1" title="Permanent link">&num;</a></h3>
+<p>Organiser une réunion de rétrospective du Sprint 1, relever la tête du guidon et résumer ci-dessous les points à retenir :</p>
+<h4 id="nos-points-forts-ce-qui-a-bien-fonctionne">Nos points forts, ce qui à bien fonctionné :<a class="headerlink" href="#nos-points-forts-ce-qui-a-bien-fonctionne" title="Permanent link">&num;</a></h4>
+<h2 id="-">-<a class="headerlink" href="#-" title="Permanent link">&num;</a></h2>
+<h4 id="nos-points-de-faiblesses-ce-qui-a-moins-bien-fonctionne">Nos points de faiblesses, ce qui à moins bien fonctionné :<a class="headerlink" href="#nos-points-de-faiblesses-ce-qui-a-moins-bien-fonctionne" title="Permanent link">&num;</a></h4>
+<h2 id="-_1">-<a class="headerlink" href="#-_1" title="Permanent link">&num;</a></h2>
+<h4 id="nos-points-de-blocages-ce-qui-na-pas-fonctionne">Nos points de blocages, ce qui n'a pas fonctionné :<a class="headerlink" href="#nos-points-de-blocages-ce-qui-na-pas-fonctionne" title="Permanent link">&num;</a></h4>
+<h2 id="-_2">-<a class="headerlink" href="#-_2" title="Permanent link">&num;</a></h2>
+<h4 id="nos-axes-dameliorations-envisages-pour-la-suite">Nos axes d'améliorations envisagés pour la suite   :<a class="headerlink" href="#nos-axes-dameliorations-envisages-pour-la-suite" title="Permanent link">&num;</a></h4>
+<h2 id="-_3">-<a class="headerlink" href="#-_3" title="Permanent link">&num;</a></h2>
+<h2 id="ressources">Ressources<a class="headerlink" href="#ressources" title="Permanent link">&num;</a></h2>
+<h3 id="modelisation-3d">Modélisation 3D<a class="headerlink" href="#modelisation-3d" title="Permanent link">&num;</a></h3>
+<ul>
+<li>
+<p><a href="https://eduscol.education.fr/sti/ressources_pedagogiques/onshape-modeleur-3d-saas-presentation-0#description" target="_blank">eduscol_ressources-pedagogiques_onshape-modeleur-3d</a></p>
+</li>
+<li>
+<p><a href="https://scenari.techno-melh.xyz/modelisation-3d/co/modelisation-3D-MELH.html" target="_blank">cours de modélisation 3D de M. Lossendière​​</a></p>
+</li>
+<li>
+<p><a href="https://blogpeda.ac-poitiers.fr/lp2i-si/2016/09/09/onshape-un-logiciel-professionnel-de-modelisation-3d-innovant-et-gratuit-pour-un-usage-pedagogique/" target="_blank">onshape-un-logiciel-professionnel-de-modelisation-3d-innovant-et-gratuit-pour-un-usage-pedagogique</a></p>
+</li>
+</ul>
+<h3 id="scrum">SCRUM<a class="headerlink" href="#scrum" title="Permanent link">&num;</a></h3>
+<ul>
+<li><a href="http://coach-agile.com/wp-content/uploads/2013/04/Lego4Scrum-version2-French.pdf">Lego4Scrum-version2-French.pdf</a></li>
+</ul>
+<figure>
+<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube-nocookie.com/embed/bFk6XCZISr4" title="YouTube video player" width="560"></iframe>
+<figcaption>
+<p>Retrospective d'un atelier Lego4Scrum par <a href="https://www.creagile.fr/" target="_blank">Creagile</a></p>
+</figcaption>
+</figure>
+<!-- https://www.observatoire-management.org/single-post/2019/02/23/m-lab-a-test%C3%A9-le-lego-4-scrum
+
+https://blog.myagilepartner.fr/index.php/2017/02/17/lego4scrum/
+
+https://xavierkoma.com/animer-votre-lego-4-scrum-serious-game/ 
+
+
+
+
+- [Liste de Ressources pour SI](http://pedagogie.ac-limoges.fr/sti_si/spip.php?article105)
+
+- <http://www.lycee-ferry-versailles.fr/spe-si/index.php?rubrique=projet_1ere>
+
+- <http://hbprof.free.fr/>
+
+
+
+-->
+
+              
+
+<style>
+    .jp-RenderedHTMLCommon p {
+        font-size: 0.8rem;
+        line-height: 1.6;
+    }
+
+    .jp-RenderedHTMLCommon li {
+        font-size: .8rem;
+        line-height: 1.6;
+    }
+
+    .jp-RenderedHTMLCommon h1 {
+        margin: 0 0 1.25em;
+        color: var(--md-default-fg-color--light);
+        font-weight: 300;
+        font-size: 2em;
+        line-height: 1.3;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon h2 {
+        margin: 1.6em 0 .64em;
+        font-weight: 300;
+        font-size: 1.965em;
+        line-height: 1.4;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon h3 {
+        margin: 1.6em 0 .8em;
+        font-weight: 400;
+        font-size: 1.57em;
+        line-height: 1.5;
+        letter-spacing: -0.01em;
+    }
+
+    .jp-RenderedHTMLCommon hr {
+        border: none;
+    }
+</style>
+
+
+
+            </article>
+            
+          </div>
+        </div>
+        
+          <a href="#" class="md-top md-top--hidden md-icon" data-md-component="top">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Retour en haut de la page
+          </a>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Pied de page" >
+      
+        
+        <a href="../presentation/" class="md-footer__link md-footer__link--prev" aria-label="Précédent: Présentation" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Précédent
+              </span>
+              Présentation
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../github/" class="md-footer__link md-footer__link--next" aria-label="Suivant: GitHub+MarkDown+GitPod+..." rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Suivant
+              </span>
+              GitHub+MarkDown+GitPod+...
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Document partagé par <a href="https://github.com/ericECmorlaix" target="_blank">Eric MADEC</a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a> <br> Illustrations par <a href="https://undraw.co/" target="_blank">UnDraw</a>
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    <a href="mailto:eric.madec@ecmorlaix.fr" target="_blank" rel="noopener" title="Pour toute question, suggestion ou commentaire, écrire à l&#39;auteur" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="m511.6 36.86-64 415.1a32.008 32.008 0 0 1-31.65 27.147c-4.188 0-8.319-.815-12.29-2.472l-122.6-51.1-50.86 76.29C226.3 508.5 219.8 512 212.8 512c-11.5 0-20.8-9.3-20.8-20.8v-96.18c0-7.115 2.372-14.03 6.742-19.64L416 96 122.3 360.3 19.69 317.5C8.438 312.8.812 302.2.062 289.1s5.47-23.72 16.06-29.77l448-255.1c10.69-6.109 23.88-5.547 34 1.406S513.5 24.72 511.6 36.86z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://github.com/ericECmorlaix/1SI_2021-2022" target="_blank" rel="noopener" title="dépôt github" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+    </a>
+  
+    
+    
+    <a href="https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/" target="_blank" rel="noopener" title="Lycée Notre Dame du Mur" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M320 128c8.8 0 16 7.2 16 16v16h16c8.8 0 16 7.2 16 16s-7.2 16-16 16h-32c-8.8 0-16-7.2-16-16v-32c0-8.8 7.2-16 16-16zm156.8-29.94 125.6 27.04c22 5.8 37.6 25.2 37.6 47.7V464c0 26.5-21.5 48-48 48H48c-26.51 0-48-21.5-48-48V172.8c0-22.5 15.63-41.9 37.59-47.7L163.2 98.06l139-92.686c9.9-7.165 24.8-7.165 35.6 0l139 92.686zM256 512h128v-96c0-35.3-28.7-64-64-64s-64 28.7-64 64v96zM96 192c-8.84 0-16 7.2-16 16v64c0 8.8 7.16 16 16 16h32c8.8 0 16-7.2 16-16v-64c0-8.8-7.2-16-16-16H96zm400 80c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-64c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v64zM96 320c-8.84 0-16 7.2-16 16v64c0 8.8 7.16 16 16 16h32c8.8 0 16-7.2 16-16v-64c0-8.8-7.2-16-16-16H96zm400 80c0 8.8 7.2 16 16 16h32c8.8 0 16-7.2 16-16v-64c0-8.8-7.2-16-16-16h-32c-8.8 0-16 7.2-16 16v64zM320 88c-48.6 0-88 39.4-88 88s39.4 88 88 88 88-39.4 88-88-39.4-88-88-88z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "..", "features": ["navigation.instant", "navigation.tabs", "navigation.expand", "navigation.top", "toc.integrate", "header.autohide"], "search": "../assets/javascripts/workers/search.b028fd86.min.js", "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.config.lang": "fr", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Rechercher", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version.title": "S\u00e9lectionner la version"}}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.7f366e99.min.js"></script>
+      
+        <script src="../javascripts/config.js"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
