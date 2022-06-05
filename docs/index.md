@@ -15,6 +15,11 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+
+## Le 08/06
+
+- **mettre** en ligne dans un dépôt GitHub une trace de vos travaux de première : [Mon classeur de SI sur GitHub](./github) 
+
 ## Les 23 et 25/05 (==se préparer pour l'évaluation du 30/05==) :
 
 - **Finir** les activités de la page [MODÉLISATION DES ACTIONS MÉCANIQUES](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/mod%C3%A9lisation-des-actions-m%C3%A9caniques){target=_blank} et **Faire** celles de la page [RÉSOLUTION ANALYTIQUE](https://sites.google.com/view/newecligne/m%C3%A9canique/statique/r%C3%A9solution-analytique){target=_blank} ;
